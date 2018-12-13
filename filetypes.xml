@@ -1,6 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Dockerfile-prod" type="Dockerfile" />
+      <mapping pattern="Dockerfile-cron" type="Dockerfile" />
+      <mapping pattern="Dockerfile-deploy" type="Dockerfile" />
+      <mapping pattern="Dockerfile-base" type="Dockerfile" />
+      <mapping pattern="Dockerfile-dev" type="Dockerfile" />
       <mapping ext="tfstate" type="JSON" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="plan" type="PLAIN_TEXT" />
