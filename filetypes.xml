@@ -14,7 +14,6 @@
       <mapping pattern=".htaccess_test" type="PLAIN_TEXT" />
       <mapping pattern="dockertest" type="PLAIN_TEXT" />
       <mapping ext="plan" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
