@@ -12,6 +12,8 @@
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="mysql_config_source.sh" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess_test" type="PLAIN_TEXT" />
+      <mapping pattern="target_bin_log" type="PLAIN_TEXT" />
+      <mapping pattern="target_bin_pos" type="PLAIN_TEXT" />
       <mapping pattern="dockertest" type="PLAIN_TEXT" />
       <mapping ext="plan" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
