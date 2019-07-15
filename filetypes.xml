@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".dockerignore" type="Dockerfile" />
       <mapping pattern="Dockerfile-pipelines" type="Dockerfile" />
       <mapping pattern="Dockerfile-base" type="Dockerfile" />
       <mapping pattern="Dockerfile-dev" type="Dockerfile" />
