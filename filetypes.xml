@@ -15,6 +15,7 @@
       <mapping pattern=".htaccess_test" type="PLAIN_TEXT" />
       <mapping pattern=".ebignore" type="PLAIN_TEXT" />
       <mapping pattern="target_bin_pos" type="PLAIN_TEXT" />
+      <mapping pattern="googlemybusiness-oauth-locationlist.php" type="PLAIN_TEXT" />
       <mapping pattern="dockertest" type="PLAIN_TEXT" />
       <mapping ext="plan" type="PLAIN_TEXT" />
     </extensionMap>
