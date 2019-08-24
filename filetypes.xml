@@ -1,22 +1,33 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Dockerfile-prod" type="Dockerfile" />
-      <mapping pattern="Dockerfile-cron" type="Dockerfile" />
-      <mapping pattern="Dockerfile-deploy" type="Dockerfile" />
-      <mapping pattern="Dockerfile-base" type="Dockerfile" />
       <mapping pattern="Dockerfile-pipelines" type="Dockerfile" />
       <mapping pattern="Dockerfile-dev" type="Dockerfile" />
+      <mapping pattern="Dockerfile-base" type="Dockerfile" />
+      <mapping pattern="Dockerfile-cron" type="Dockerfile" />
+      <mapping pattern="Dockerfile-deploy" type="Dockerfile" />
+      <mapping pattern="Dockerfile-prod" type="Dockerfile" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="tfstate" type="JSON" />
-      <mapping pattern="target_bin_log" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
-      <mapping pattern="mysql_config_source.sh" type="PLAIN_TEXT" />
-      <mapping pattern=".htaccess_test" type="PLAIN_TEXT" />
-      <mapping pattern=".ebignore" type="PLAIN_TEXT" />
       <mapping pattern="target_bin_pos" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".ebignore" type="PLAIN_TEXT" />
+      <mapping pattern="mysql_config_source.sh" type="PLAIN_TEXT" />
       <mapping pattern="dockertest" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess_test" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="target_bin_log" type="PLAIN_TEXT" />
       <mapping ext="plan" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
 </application>
