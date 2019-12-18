@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0f9df966-0eb6-4925-993b-eaf12bdfde08" name="ianmassage.com" url="http://ianmassage.com">
+        <fileTransfer host="ianmassage.com" port="21" rootFolder="/ianmassage.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
