@@ -6,9 +6,12 @@
   </component>
   <component name="VimHistorySettings">
     <history>
+      <history-search />
       <history-cmd>
         <entry>x</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
   </component>
   <component name="VimKeySettings">
@@ -17,11 +20,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/testing.yml" timestamp="1587119514343">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="32" />
-        <mark key="^" line="27" column="32" />
-        <mark key="." line="27" column="31" />
+      <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/testing.yml" timestamp="1587122205864">
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="23" column="32" />
+        <mark key="^" line="23" column="32" />
+        <mark key="." line="23" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/production.yml" timestamp="1587116798508">
         <mark key="[" line="27" column="0" />
@@ -45,8 +48,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>'newrelic'</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAtIG5hbWU6IG5ld3JlbGljCiAgICBob3N0OiAiMTI3LjAuMC4xIgogICAgcGFzc3dvcmQ6ICJVTn01fVBFPVI5WDFmLnF0IgogICAgcHJpdjogIiouKjpTRUxFQ1QsU0hPVyBWSUVXIg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
