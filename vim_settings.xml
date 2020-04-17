@@ -4,16 +4,37 @@
       <key-repeat enabled="false" />
     </editor>
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry>x</entry>
+      </history-cmd>
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts />
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/testing.yml" timestamp="1587116729149">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="32" />
+        <mark key="^" line="27" column="32" />
+        <mark key="." line="27" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/production.yml" timestamp="1587116754959">
+        <mark key="[" line="27" column="31" />
+      </file>
+    </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
-    <registers />
+    <registers>
+      <register name=":" type="4">
+        <text>x</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
