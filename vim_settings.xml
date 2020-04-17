@@ -23,8 +23,11 @@
         <mark key="^" line="27" column="32" />
         <mark key="." line="27" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/production.yml" timestamp="1587116754959">
-        <mark key="[" line="27" column="31" />
+      <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/production.yml" timestamp="1587116798508">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
     </filemarks>
     <jumps />
