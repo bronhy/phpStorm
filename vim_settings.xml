@@ -39,6 +39,8 @@
         <mark key="^" line="14" column="51" />
         <mark key="." line="14" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/jam_desktop/docker/prod/cronjobs/crontab" timestamp="1587129543733" />
+      <file name="$USER_HOME$/Documents/workspace/jam_desktop/docker/prod/cronjobs/03am-cron.sh" timestamp="1587129478328" />
     </filemarks>
     <jumps>
       <jump line="13" column="57" filename="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/newrelic/infra/files/mysql-config.yml" />
