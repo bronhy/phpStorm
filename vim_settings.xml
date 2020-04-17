@@ -17,7 +17,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/testing.yml" timestamp="1587116729149">
+      <file name="$USER_HOME$/Documents/workspace/patientus.devops/playbooks/server/web-server.v2.yml" timestamp="1587120592682" />
+      <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/testing.yml" timestamp="1587119514343">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="32" />
         <mark key="^" line="27" column="32" />
@@ -29,8 +30,12 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/newrelic/infra/files/mysql-config.yml" timestamp="1587120096263">
+        <mark key="[" line="20" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/newrelic/infra/tasks/main.yml" timestamp="1587118469628" />
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/cookbooks/newrelic.newrelic-infra/README.md" timestamp="1587118497058" />
+      <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/newrelic/infra/vars/main.yml" timestamp="1587119115814" />
     </filemarks>
     <jumps />
   </component>
