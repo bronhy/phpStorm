@@ -20,7 +20,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" timestamp="1587394953555">
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" timestamp="1587395794537">
         <mark key="[" line="33" column="16" />
         <mark key="]" line="83" column="36" />
         <mark key="." line="83" column="35" />
@@ -32,12 +32,12 @@
         <mark key="^" line="23" column="32" />
         <mark key="." line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587395265870">
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587396706727">
         <mark key="'" line="46" column="41" />
-        <mark key="[" line="46" column="44" />
-        <mark key="]" line="46" column="45" />
-        <mark key="^" line="46" column="45" />
-        <mark key="." line="46" column="44" />
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="39" column="54" />
+        <mark key="." line="39" column="53" />
+        <mark key="^" line="39" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/production.yml" timestamp="1587385104634">
         <mark key="'" line="0" column="0" />
@@ -123,28 +123,31 @@
         <text>console.log('Router is loading');</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSb3V0ZXIgc2hvdyBlcnJvciBwYWdlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2V0IHVzZXInKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSb3V0ZXIgc2hvdyBlcnJvciBwYWdlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2V0IHVzZXInKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSb3V0ZXIgaXMgbG9hZGluZycpO2RkCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSb3V0ZXIgc2hvdyBlcnJvciBwYWdlJyk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSb3V0ZXIgaXMgbG9hZGluZycpO2RkCg==</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="5" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAtIG5hbWU6IG5ld3JlbGljCiAgICBob3N0OiAiMTI3LjAuMC4xIgogICAgcGFzc3dvcmQ6ICJVTn01fVBFPVI5WDFmLnF0IgogICAgcHJpdjogIiouKjpTRUxFQ1QsU0hPVyBWSUVXIg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>Router is loading</text>
+        <text>i</text>
       </register>
     </registers>
   </component>
