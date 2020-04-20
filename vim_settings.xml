@@ -20,11 +20,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" timestamp="1587398109225">
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="11" column="35" />
-        <mark key="." line="11" column="35" />
-        <mark key="^" line="11" column="51" />
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" timestamp="1587399776987">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="5" column="35" />
+        <mark key="." line="5" column="35" />
+        <mark key="^" line="5" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/testing.yml" timestamp="1587384641093">
         <mark key="[" line="23" column="32" />
@@ -32,11 +32,11 @@
         <mark key="^" line="23" column="32" />
         <mark key="." line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587397419066">
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587399600798">
         <mark key="'" line="46" column="41" />
-        <mark key="[" line="10" column="43" />
-        <mark key="]" line="39" column="54" />
-        <mark key="." line="39" column="53" />
+        <mark key="[" line="61" column="13" />
+        <mark key="]" line="61" column="61" />
+        <mark key="." line="61" column="61" />
         <mark key="^" line="39" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/production.yml" timestamp="1587385104634">
@@ -50,6 +50,13 @@
         <mark key="'" line="225" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/jam_desktop/docker/prod/cronjobs/crontab" timestamp="1587129543733" />
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/SignInForm/SignInForm.js" timestamp="1587400398667" />
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/LabeledTextInput/LabeledTextInput.js" timestamp="1587400451262">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="28" />
+        <mark key="^" line="37" column="28" />
+        <mark key="." line="37" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/auth-service/src/contexts/AppContext.js" timestamp="1587397439968" />
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/playbooks/defaults/vars/security/default.yml" timestamp="1587384972069">
         <mark key="[" line="68" column="3" />
@@ -64,16 +71,16 @@
         <mark key="^" line="14" column="51" />
         <mark key="." line="14" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/index.js" timestamp="1587394315568">
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/index.js" timestamp="1587399663127">
         <mark key="[" line="31" column="26" />
         <mark key="]" line="31" column="33" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/stores/ErrorMessageStore.js" timestamp="1587397759424">
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="9" column="15" />
-        <mark key="^" line="9" column="23" />
-        <mark key="." line="9" column="15" />
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/stores/ErrorMessageStore.js" timestamp="1587399429693">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/jam_desktop/docker/prod/cronjobs/03am-cron.sh" timestamp="1587129478328" />
     </filemarks>
@@ -130,27 +137,30 @@
         <text>console.log('execute errormessagestore');</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEFwcENvbnRleHQgZnJvbSAnQ29udGV4dHMvQXBwQ29udGV4dCc7CmltcG9ydCB7IEVycm9yTWVzc2FnZVN0b3JlIH0gZnJvbSAnU3RvcmVzL0Vycm9yTWVzc2FnZVN0b3JlJzsK</text>
+        <text encoding="base64">Y29uc3QgeyBQcm92aWRlciB9ID0gRXJyb3JNZXNzYWdlU3RvcmU7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgeyBQcm92aWRlciB9ID0gRXJyb3JNZXNzYWdlU3RvcmU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2V0IHVzZXInKTsK</text>
+        <text encoding="base64">aW1wb3J0IEFwcENvbnRleHQgZnJvbSAnQ29udGV4dHMvQXBwQ29udGV4dCc7CmltcG9ydCB7IEVycm9yTWVzc2FnZVN0b3JlIH0gZnJvbSAnU3RvcmVzL0Vycm9yTWVzc2FnZVN0b3JlJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSb3V0ZXIgc2hvdyBlcnJvciBwYWdlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2V0IHVzZXInKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSb3V0ZXIgaXMgbG9hZGluZycpO2RkCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSb3V0ZXIgc2hvdyBlcnJvciBwYWdlJyk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSb3V0ZXIgaXMgbG9hZGluZycpO2RkCg==</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAtIG5hbWU6IG5ld3JlbGljCiAgICBob3N0OiAiMTI3LjAuMC4xIgogICAgcGFzc3dvcmQ6ICJVTn01fVBFPVI5WDFmLnF0IgogICAgcHJpdjogIiouKjpTRUxFQ1QsU0hPVyBWSUVXIg==</text>
       </register>
       <register name=":" type="4">
