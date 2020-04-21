@@ -43,12 +43,12 @@
         <mark key="^" line="23" column="32" />
         <mark key="." line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587482484176">
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587486059334">
         <mark key="'" line="53" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="54" column="56" />
-        <mark key="." line="54" column="55" />
-        <mark key="^" line="54" column="56" />
+        <mark key="[" line="69" column="36" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/production.yml" timestamp="1587385104634">
         <mark key="'" line="0" column="0" />
@@ -157,23 +157,23 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>userPoolId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bGV0IFt0ZXN0LCBzZXRUZXN0XSA9IHVzZVN0YXRlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>userPoolId</text>
+        <text>(</text>
       </register>
       <register name="0" type="4">
         <text>poolMap[pool].userPoolId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">bGV0IFt0ZXN0LCBzZXRUZXN0XSA9IHVzZVN0YXRlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNvbnN0IHBvb2xNYXAgPSB7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNvbnN0IHBvb2xNYXAgPSB7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -182,21 +182,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZXJQb29sSWQ6IHByb2Nlc3MuZW52LkFXU19FTVBMT1lFRVNfVVNFUl9QT09MLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>import qs from &quot;qs&quot;;</text>
+        <text encoding="base64">ICAgIHVzZXJQb29sSWQ6IHByb2Nlc3MuZW52LkFXU19FTVBMT1lFRVNfVVNFUl9QT09MLAo=</text>
       </register>
       <register name="8" type="2">
+        <text>import qs from &quot;qs&quot;;</text>
+      </register>
+      <register name="9" type="2">
         <text>/**
  * Options to be passed to `qs.parse`.
  *
  * We ignore the `?` prefix that is still present in `history.location.search`.
  */
 const qsOptions = { ignoreQueryPrefix: true };</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEF1dGggZnJvbSAnQGF3cy1hbXBsaWZ5L2F1dGgnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
