@@ -27,10 +27,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" timestamp="1587470948421">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="5" column="35" />
-        <mark key="." line="5" column="35" />
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" timestamp="1587480138136">
+        <mark key="[" line="16" column="0" />
         <mark key="^" line="5" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/playbooks/defaults/vars/security/default.yml" timestamp="1587384972069">
@@ -45,12 +43,12 @@
         <mark key="^" line="23" column="32" />
         <mark key="." line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587478077344">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="48" column="13" />
-        <mark key="]" line="48" column="13" />
-        <mark key="^" line="20" column="1" />
-        <mark key="." line="48" column="13" />
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587481898659">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="13" />
+        <mark key="." line="46" column="12" />
+        <mark key="^" line="46" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/production.yml" timestamp="1587385104634">
         <mark key="'" line="0" column="0" />
@@ -135,68 +133,70 @@
       <jump line="49" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" />
       <jump line="24" column="9" filename="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/production.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/production.yml" />
-      <jump line="46" column="41" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
       <jump line="59" column="36" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
       <jump line="41" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
       <jump line="58" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
+      <jump line="40" column="39" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
+      <jump line="55" column="4" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
+      <jump line="103" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
+      <jump line="97" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
+      <jump line="85" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
+      <jump line="66" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>{ hasError }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>{ hasError }</text>
+        <text>;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnT2JqID0gewogIHJlZ2lvbjogcHJvY2Vzcy5lbnYuQVdTX0RFRkFVTFRfUkVHSU9OLAogIC8vIEFtYXpvbiBDb2duaXRvIFVzZXIgUG9vbCBJRAogIHVzZXJQb29sSWQ6IHByb2Nlc3MuZW52LkFXU19VU0VSX1BPT0wsCiAgLy8gQW1hem9uIENvZ25pdG8gV2ViIENsaWVudCBJRCAoMjYtY2hhciBhbHBoYW51bWVyaWMgc3RyaW5nKQogIHVzZXJQb29sV2ViQ2xpZW50SWQ6IHByb2Nlc3MuZW52LkFXU19DTElFTlRfSUQsCgogIGNvb2tpZVN0b3JhZ2U6IHsKICAgIC8vIFJFUVVJUkVEIC0gQ29va2llIGRvbWFpbiAob25seSByZXF1aXJlZCBpZiBjb29raWVTdG9yYWdlIGlzIHByb3ZpZGVkKQogICAgZG9tYWluOiBwcm9jZXNzLmVudi5ET01BSU4sCiAgICAvLyBPUFRJT05BTCAtIENvb2tpZSBwYXRoCiAgICBwYXRoOiAnLycsCiAgICAvLyBPUFRJT05BTCAtIENvb2tpZSBleHBpcmF0aW9uIGluIGRheXMKICAgIGV4cGlyZXM6IDEsCiAgICAvLyBPUFRJT05BTCAtIENvb2tpZSBzZWN1cmUgZmxhZwogICAgLy8gRWl0aGVyIHRydWUgb3IgZmFsc2UsIGluZGljYXRpbmcgaWYgdGhlIGNvb2tpZSB0cmFuc21pc3Npb24gcmVxdWlyZXMgYSBzZWN1cmUgcHJvdG9jb2wgKGh0dHBzKS4KICAgIHNlY3VyZTogZmFsc2UKICB9Cn07CgpBdXRoLmNvbmZpZ3VyZSh7IEF1dGg6IGNvbmZpZ09iaiB9KTsK</text>
+      <register name="0" type="4">
+        <text>process.env.AWS_USER_POOL</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEF1dGggZnJvbSAnQGF3cy1hbXBsaWZ5L2F1dGgnOwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnT2JqID0gewogIHJlZ2lvbjogcHJvY2Vzcy5lbnYuQVdTX0RFRkFVTFRfUkVHSU9OLAogIC8vIEFtYXpvbiBDb2duaXRvIFVzZXIgUG9vbCBJRAogIHVzZXJQb29sSWQ6IHByb2Nlc3MuZW52LkFXU19VU0VSX1BPT0wsCiAgLy8gQW1hem9uIENvZ25pdG8gV2ViIENsaWVudCBJRCAoMjYtY2hhciBhbHBoYW51bWVyaWMgc3RyaW5nKQogIHVzZXJQb29sV2ViQ2xpZW50SWQ6IHByb2Nlc3MuZW52LkFXU19DTElFTlRfSUQsCgogIGNvb2tpZVN0b3JhZ2U6IHsKICAgIC8vIFJFUVVJUkVEIC0gQ29va2llIGRvbWFpbiAob25seSByZXF1aXJlZCBpZiBjb29raWVTdG9yYWdlIGlzIHByb3ZpZGVkKQogICAgZG9tYWluOiBwcm9jZXNzLmVudi5ET01BSU4sCiAgICAvLyBPUFRJT05BTCAtIENvb2tpZSBwYXRoCiAgICBwYXRoOiAnLycsCiAgICAvLyBPUFRJT05BTCAtIENvb2tpZSBleHBpcmF0aW9uIGluIGRheXMKICAgIGV4cGlyZXM6IDEsCiAgICAvLyBPUFRJT05BTCAtIENvb2tpZSBzZWN1cmUgZmxhZwogICAgLy8gRWl0aGVyIHRydWUgb3IgZmFsc2UsIGluZGljYXRpbmcgaWYgdGhlIGNvb2tpZSB0cmFuc21pc3Npb24gcmVxdWlyZXMgYSBzZWN1cmUgcHJvdG9jb2wgKGh0dHBzKS4KICAgIHNlY3VyZTogZmFsc2UKICB9Cn07CgpBdXRoLmNvbmZpZ3VyZSh7IEF1dGg6IGNvbmZpZ09iaiB9KTsK</text>
+        <text encoding="base64">CmNvbnN0IHBvb2xNYXAgPSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b25zdCBjb25maWdPYmogPSB7CiAgcmVnaW9uOiBwcm9jZXNzLmVudi5BV1NfREVGQVVMVF9SRUdJT04sCiAgLy8gQW1hem9uIENvZ25pdG8gVXNlciBQb29sIElECiAgdXNlclBvb2xJZDogcHJvY2Vzcy5lbnYuQVdTX1VTRVJfUE9PTCwKICAvLyBBbWF6b24gQ29nbml0byBXZWIgQ2xpZW50IElEICgyNi1jaGFyIGFscGhhbnVtZXJpYyBzdHJpbmcpCiAgdXNlclBvb2xXZWJDbGllbnRJZDogcHJvY2Vzcy5lbnYuQVdTX0NMSUVOVF9JRCwKCiAgY29va2llU3RvcmFnZTogewogICAgLy8gUkVRVUlSRUQgLSBDb29raWUgZG9tYWluIChvbmx5IHJlcXVpcmVkIGlmIGNvb2tpZVN0b3JhZ2UgaXMgcHJvdmlkZWQpCiAgICBkb21haW46IHByb2Nlc3MuZW52LkRPTUFJTiwKICAgIC8vIE9QVElPTkFMIC0gQ29va2llIHBhdGgKICAgIHBhdGg6ICcvJywKICAgIC8vIE9QVElPTkFMIC0gQ29va2llIGV4cGlyYXRpb24gaW4gZGF5cwogICAgZXhwaXJlczogMSwKICAgIC8vIE9QVElPTkFMIC0gQ29va2llIHNlY3VyZSBmbGFnCiAgICAvLyBFaXRoZXIgdHJ1ZSBvciBmYWxzZSwgaW5kaWNhdGluZyBpZiB0aGUgY29va2llIHRyYW5zbWlzc2lvbiByZXF1aXJlcyBhIHNlY3VyZSBwcm90b2NvbCAoaHR0cHMpLgogICAgc2VjdXJlOiBmYWxzZQogIH0KfTsKCkF1dGguY29uZmlndXJlKHsgQXV0aDogY29uZmlnT2JqIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MWlJME8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBhcyB3ZSBhcmUgaW5kamVjdGluZyB0aGVzZSB1c2luZyBgd2VicGFja2AsIHdlIGNhbm5vdCBkZXN0cnVjdHVyZSBgcHJvY2Vzcy5lbnZgIGhlcmUK</text>
+        <text encoding="base64">ICAgIHVzZXJQb29sSWQ6IHByb2Nlc3MuZW52LkFXU19FTVBMT1lFRVNfVVNFUl9QT09MLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-    // Amazon Cognito Region
-    region: process.env.AWS_DEFAULT_REGION,
-    // Amazon Cognito User Pool ID
-    userPoolId: process.env.AWS_USER_POOL,
-    // Amazon Cognito Web Client ID (26-char alphanumeric string)
-    userPoolWebClientId: process.env.AWS_CLIENT_ID,
-
-    cookieStorage: {
-      // REQUIRED - Cookie domain (only required if cookieStorage is provided)
-      domain: process.env.DOMAIN,
-      // OPTIONAL - Cookie path
-      path: '/',
-      // OPTIONAL - Cookie expiration in days
-      expires: 1,
-      // OPTIONAL - Cookie secure flag
-      // Either true or false, indicating if the cookie transmission requires a secure protocol (https).
-      secure: false
-    }
-  }</text>
+      <register name="7" type="2">
+        <text>import qs from &quot;qs&quot;;</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ewogICAgLy8gQW1hem9uIENvZ25pdG8gUmVnaW9uCiAgICByZWdpb246IHByb2Nlc3MuZW52LkFXU19ERUZBVUxUX1JFR0lPTiwKICAgIC8vIEFtYXpvbiBDb2duaXRvIFVzZXIgUG9vbCBJRAogICAgdXNlclBvb2xJZDogcHJvY2Vzcy5lbnYuQVdTX1VTRVJfUE9PTCwKICAgIC8vIEFtYXpvbiBDb2duaXRvIFdlYiBDbGllbnQgSUQgKDI2LWNoYXIgYWxwaGFudW1lcmljIHN0cmluZykKICAgIHVzZXJQb29sV2ViQ2xpZW50SWQ6IHByb2Nlc3MuZW52LkFXU19DTElFTlRfSUQsCgogICAgY29va2llU3RvcmFnZTogewogICAgICAvLyBSRVFVSVJFRCAtIENvb2tpZSBkb21haW4gKG9ubHkgcmVxdWlyZWQgaWYgY29va2llU3RvcmFnZSBpcyBwcm92aWRlZCkKICAgICAgZG9tYWluOiBwcm9jZXNzLmVudi5ET01BSU4sCiAgICAgIC8vIE9QVElPTkFMIC0gQ29va2llIHBhdGgKICAgICAgcGF0aDogJy8nLAogICAgICAvLyBPUFRJT05BTCAtIENvb2tpZSBleHBpcmF0aW9uIGluIGRheXMKICAgICAgZXhwaXJlczogMSwKICAgICAgLy8gT1BUSU9OQUwgLSBDb29raWUgc2VjdXJlIGZsYWcKICAgICAgLy8gRWl0aGVyIHRydWUgb3IgZmFsc2UsIGluZGljYXRpbmcgaWYgdGhlIGNvb2tpZSB0cmFuc21pc3Npb24gcmVxdWlyZXMgYSBzZWN1cmUgcHJvdG9jb2wgKGh0dHBzKS4KICAgICAgc2VjdXJlOiBmYWxzZQogICAgfQogIA==</text>
+      <register name="8" type="2">
+        <text>/**
+ * Options to be passed to `qs.parse`.
+ *
+ * We ignore the `?` prefix that is still present in `history.location.search`.
+ */
+const qsOptions = { ignoreQueryPrefix: true };</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgeyBQcm92aWRlciB9ID0gRXJyb3JNZXNzYWdlU3RvcmU7Cg==</text>
+        <text encoding="base64">aW1wb3J0IEF1dGggZnJvbSAnQGF3cy1hbXBsaWZ5L2F1dGgnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
