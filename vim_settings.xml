@@ -45,8 +45,8 @@
         <mark key="^" line="23" column="32" />
         <mark key="." line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587474749527">
-        <mark key="'" line="67" column="41" />
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587478077344">
+        <mark key="'" line="58" column="0" />
         <mark key="[" line="48" column="13" />
         <mark key="]" line="48" column="13" />
         <mark key="^" line="20" column="1" />
@@ -136,6 +136,9 @@
       <jump line="24" column="9" filename="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/production.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/production.yml" />
       <jump line="46" column="41" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
+      <jump line="59" column="36" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
