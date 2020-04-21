@@ -27,7 +27,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" timestamp="1587480138136">
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" timestamp="1587482555720">
         <mark key="[" line="16" column="0" />
         <mark key="^" line="5" column="51" />
       </file>
@@ -43,12 +43,12 @@
         <mark key="^" line="23" column="32" />
         <mark key="." line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587481898659">
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587482484176">
         <mark key="'" line="53" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="46" column="13" />
-        <mark key="." line="46" column="12" />
-        <mark key="^" line="46" column="13" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="54" column="56" />
+        <mark key="." line="54" column="55" />
+        <mark key="^" line="54" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/production.yml" timestamp="1587385104634">
         <mark key="'" line="0" column="0" />
@@ -157,14 +157,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>userPoolId</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>userPoolId</text>
       </register>
       <register name="0" type="4">
-        <text>process.env.AWS_USER_POOL</text>
+        <text>poolMap[pool].userPoolId</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cgo=</text>
