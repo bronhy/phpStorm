@@ -53,15 +53,13 @@
       <file name="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" timestamp="1587382129397">
         <mark key="'" line="225" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/jam_desktop/docker/prod/cronjobs/crontab" timestamp="1587129543733" />
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/SignInForm/SignInForm.js" timestamp="1587400398667" />
+      <file name="$USER_HOME$/Documents/workspace/auth-service/.env" timestamp="1587456446385" />
       <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/LabeledTextInput/LabeledTextInput.js" timestamp="1587400451262">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="28" />
         <mark key="^" line="37" column="28" />
         <mark key="." line="37" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/contexts/AppContext.js" timestamp="1587397439968" />
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/playbooks/defaults/vars/security/default.yml" timestamp="1587384972069">
         <mark key="[" line="68" column="3" />
         <mark key="]" line="69" column="44" />
@@ -87,7 +85,6 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/jam_desktop/docker/prod/cronjobs/03am-cron.sh" timestamp="1587129478328" />
     </filemarks>
     <jumps>
       <jump line="13" column="57" filename="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/newrelic/infra/files/mysql-config.yml" />
