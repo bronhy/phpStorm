@@ -27,7 +27,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" timestamp="1587465588595">
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" timestamp="1587470948421">
         <mark key="[" line="5" column="35" />
         <mark key="]" line="5" column="35" />
         <mark key="." line="5" column="35" />
@@ -45,9 +45,12 @@
         <mark key="^" line="23" column="32" />
         <mark key="." line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587468248249">
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587470784261">
         <mark key="'" line="67" column="41" />
+        <mark key="[" line="48" column="13" />
+        <mark key="]" line="48" column="13" />
         <mark key="^" line="20" column="1" />
+        <mark key="." line="48" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/production.yml" timestamp="1587385104634">
         <mark key="'" line="0" column="0" />
@@ -136,11 +139,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEF1dGggZnJvbSAnQGF3cy1hbXBsaWZ5L2F1dGgnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>{ hasError }</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>{ hasError }</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgY29uZmlnT2JqID0gewogIHJlZ2lvbjogcHJvY2Vzcy5lbnYuQVdTX0RFRkFVTFRfUkVHSU9OLAogIC8vIEFtYXpvbiBDb2duaXRvIFVzZXIgUG9vbCBJRAogIHVzZXJQb29sSWQ6IHByb2Nlc3MuZW52LkFXU19VU0VSX1BPT0wsCiAgLy8gQW1hem9uIENvZ25pdG8gV2ViIENsaWVudCBJRCAoMjYtY2hhciBhbHBoYW51bWVyaWMgc3RyaW5nKQogIHVzZXJQb29sV2ViQ2xpZW50SWQ6IHByb2Nlc3MuZW52LkFXU19DTElFTlRfSUQsCgogIGNvb2tpZVN0b3JhZ2U6IHsKICAgIC8vIFJFUVVJUkVEIC0gQ29va2llIGRvbWFpbiAob25seSByZXF1aXJlZCBpZiBjb29raWVTdG9yYWdlIGlzIHByb3ZpZGVkKQogICAgZG9tYWluOiBwcm9jZXNzLmVudi5ET01BSU4sCiAgICAvLyBPUFRJT05BTCAtIENvb2tpZSBwYXRoCiAgICBwYXRoOiAnLycsCiAgICAvLyBPUFRJT05BTCAtIENvb2tpZSBleHBpcmF0aW9uIGluIGRheXMKICAgIGV4cGlyZXM6IDEsCiAgICAvLyBPUFRJT05BTCAtIENvb2tpZSBzZWN1cmUgZmxhZwogICAgLy8gRWl0aGVyIHRydWUgb3IgZmFsc2UsIGluZGljYXRpbmcgaWYgdGhlIGNvb2tpZSB0cmFuc21pc3Npb24gcmVxdWlyZXMgYSBzZWN1cmUgcHJvdG9jb2wgKGh0dHBzKS4KICAgIHNlY3VyZTogZmFsc2UKICB9Cn07CgpBdXRoLmNvbmZpZ3VyZSh7IEF1dGg6IGNvbmZpZ09iaiB9KTsK</text>
