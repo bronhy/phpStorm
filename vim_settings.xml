@@ -19,6 +19,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -30,18 +33,24 @@
         <mark key="." line="5" column="35" />
         <mark key="^" line="5" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/patientus.devops/playbooks/defaults/vars/security/default.yml" timestamp="1587384972069">
+        <mark key="[" line="68" column="3" />
+        <mark key="]" line="69" column="44" />
+        <mark key="." line="69" column="43" />
+        <mark key="^" line="69" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/testing.yml" timestamp="1587384641093">
         <mark key="[" line="23" column="32" />
         <mark key="]" line="23" column="32" />
         <mark key="^" line="23" column="32" />
         <mark key="." line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587465545768">
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587468175151">
         <mark key="'" line="67" column="41" />
-        <mark key="[" line="71" column="44" />
-        <mark key="]" line="84" column="61" />
-        <mark key="." line="84" column="61" />
-        <mark key="^" line="60" column="54" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="20" column="1" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/production.yml" timestamp="1587385104634">
         <mark key="'" line="0" column="0" />
@@ -53,22 +62,6 @@
       <file name="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" timestamp="1587382129397">
         <mark key="'" line="225" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/LabeledTextInput/LabeledTextInput.js" timestamp="1587400451262">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="28" />
-        <mark key="^" line="37" column="28" />
-        <mark key="." line="37" column="27" />
-      </file>
-      <file name="/" timestamp="1587467563478">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/contexts/AppContext.js" timestamp="1587465502129" />
-      <file name="$USER_HOME$/Documents/workspace/patientus.devops/playbooks/defaults/vars/security/default.yml" timestamp="1587384972069">
-        <mark key="[" line="68" column="3" />
-        <mark key="]" line="69" column="44" />
-        <mark key="." line="69" column="43" />
-        <mark key="^" line="69" column="44" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/newrelic/infra/files/mysql-config.yml" timestamp="1587121927756">
         <mark key="'" line="20" column="8" />
         <mark key="[" line="14" column="39" />
@@ -76,17 +69,25 @@
         <mark key="^" line="14" column="51" />
         <mark key="." line="14" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/index.js" timestamp="1587465670104">
-        <mark key="[" line="30" column="21" />
-        <mark key="]" line="26" column="2" />
-        <mark key="." line="26" column="1" />
-        <mark key="^" line="26" column="2" />
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/index.js" timestamp="1587468207234">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/auth-service/src/stores/ErrorMessageStore.js" timestamp="1587399429693">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="9" column="28" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/LabeledTextInput/LabeledTextInput.js" timestamp="1587400451262">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="28" />
+        <mark key="^" line="37" column="28" />
+        <mark key="." line="37" column="27" />
+      </file>
+      <file name="/" timestamp="1587467907836">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -139,21 +140,33 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">aW1wb3J0IEF1dGggZnJvbSAnQGF3cy1hbXBsaWZ5L2F1dGgnOwo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>c</text>
       </register>
-      <register name="0" type="4">
-        <text>console.log('execute errormessagestore');</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgY29uZmlnT2JqID0gewogIHJlZ2lvbjogcHJvY2Vzcy5lbnYuQVdTX0RFRkFVTFRfUkVHSU9OLAogIC8vIEFtYXpvbiBDb2duaXRvIFVzZXIgUG9vbCBJRAogIHVzZXJQb29sSWQ6IHByb2Nlc3MuZW52LkFXU19VU0VSX1BPT0wsCiAgLy8gQW1hem9uIENvZ25pdG8gV2ViIENsaWVudCBJRCAoMjYtY2hhciBhbHBoYW51bWVyaWMgc3RyaW5nKQogIHVzZXJQb29sV2ViQ2xpZW50SWQ6IHByb2Nlc3MuZW52LkFXU19DTElFTlRfSUQsCgogIGNvb2tpZVN0b3JhZ2U6IHsKICAgIC8vIFJFUVVJUkVEIC0gQ29va2llIGRvbWFpbiAob25seSByZXF1aXJlZCBpZiBjb29raWVTdG9yYWdlIGlzIHByb3ZpZGVkKQogICAgZG9tYWluOiBwcm9jZXNzLmVudi5ET01BSU4sCiAgICAvLyBPUFRJT05BTCAtIENvb2tpZSBwYXRoCiAgICBwYXRoOiAnLycsCiAgICAvLyBPUFRJT05BTCAtIENvb2tpZSBleHBpcmF0aW9uIGluIGRheXMKICAgIGV4cGlyZXM6IDEsCiAgICAvLyBPUFRJT05BTCAtIENvb2tpZSBzZWN1cmUgZmxhZwogICAgLy8gRWl0aGVyIHRydWUgb3IgZmFsc2UsIGluZGljYXRpbmcgaWYgdGhlIGNvb2tpZSB0cmFuc21pc3Npb24gcmVxdWlyZXMgYSBzZWN1cmUgcHJvdG9jb2wgKGh0dHBzKS4KICAgIHNlY3VyZTogZmFsc2UKICB9Cn07CgpBdXRoLmNvbmZpZ3VyZSh7IEF1dGg6IGNvbmZpZ09iaiB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">aW1wb3J0IEF1dGggZnJvbSAnQGF3cy1hbXBsaWZ5L2F1dGgnOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Y29uc3QgY29uZmlnT2JqID0gewogIHJlZ2lvbjogcHJvY2Vzcy5lbnYuQVdTX0RFRkFVTFRfUkVHSU9OLAogIC8vIEFtYXpvbiBDb2duaXRvIFVzZXIgUG9vbCBJRAogIHVzZXJQb29sSWQ6IHByb2Nlc3MuZW52LkFXU19VU0VSX1BPT0wsCiAgLy8gQW1hem9uIENvZ25pdG8gV2ViIENsaWVudCBJRCAoMjYtY2hhciBhbHBoYW51bWVyaWMgc3RyaW5nKQogIHVzZXJQb29sV2ViQ2xpZW50SWQ6IHByb2Nlc3MuZW52LkFXU19DTElFTlRfSUQsCgogIGNvb2tpZVN0b3JhZ2U6IHsKICAgIC8vIFJFUVVJUkVEIC0gQ29va2llIGRvbWFpbiAob25seSByZXF1aXJlZCBpZiBjb29raWVTdG9yYWdlIGlzIHByb3ZpZGVkKQogICAgZG9tYWluOiBwcm9jZXNzLmVudi5ET01BSU4sCiAgICAvLyBPUFRJT05BTCAtIENvb2tpZSBwYXRoCiAgICBwYXRoOiAnLycsCiAgICAvLyBPUFRJT05BTCAtIENvb2tpZSBleHBpcmF0aW9uIGluIGRheXMKICAgIGV4cGlyZXM6IDEsCiAgICAvLyBPUFRJT05BTCAtIENvb2tpZSBzZWN1cmUgZmxhZwogICAgLy8gRWl0aGVyIHRydWUgb3IgZmFsc2UsIGluZGljYXRpbmcgaWYgdGhlIGNvb2tpZSB0cmFuc21pc3Npb24gcmVxdWlyZXMgYSBzZWN1cmUgcHJvdG9jb2wgKGh0dHBzKS4KICAgIHNlY3VyZTogZmFsc2UKICB9Cn07CgpBdXRoLmNvbmZpZ3VyZSh7IEF1dGg6IGNvbmZpZ09iaiB9KTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">b25zdCBjb25maWdPYmogPSB7CiAgcmVnaW9uOiBwcm9jZXNzLmVudi5BV1NfREVGQVVMVF9SRUdJT04sCiAgLy8gQW1hem9uIENvZ25pdG8gVXNlciBQb29sIElECiAgdXNlclBvb2xJZDogcHJvY2Vzcy5lbnYuQVdTX1VTRVJfUE9PTCwKICAvLyBBbWF6b24gQ29nbml0byBXZWIgQ2xpZW50IElEICgyNi1jaGFyIGFscGhhbnVtZXJpYyBzdHJpbmcpCiAgdXNlclBvb2xXZWJDbGllbnRJZDogcHJvY2Vzcy5lbnYuQVdTX0NMSUVOVF9JRCwKCiAgY29va2llU3RvcmFnZTogewogICAgLy8gUkVRVUlSRUQgLSBDb29raWUgZG9tYWluIChvbmx5IHJlcXVpcmVkIGlmIGNvb2tpZVN0b3JhZ2UgaXMgcHJvdmlkZWQpCiAgICBkb21haW46IHByb2Nlc3MuZW52LkRPTUFJTiwKICAgIC8vIE9QVElPTkFMIC0gQ29va2llIHBhdGgKICAgIHBhdGg6ICcvJywKICAgIC8vIE9QVElPTkFMIC0gQ29va2llIGV4cGlyYXRpb24gaW4gZGF5cwogICAgZXhwaXJlczogMSwKICAgIC8vIE9QVElPTkFMIC0gQ29va2llIHNlY3VyZSBmbGFnCiAgICAvLyBFaXRoZXIgdHJ1ZSBvciBmYWxzZSwgaW5kaWNhdGluZyBpZiB0aGUgY29va2llIHRyYW5zbWlzc2lvbiByZXF1aXJlcyBhIHNlY3VyZSBwcm90b2NvbCAoaHR0cHMpLgogICAgc2VjdXJlOiBmYWxzZQogIH0KfTsKCkF1dGguY29uZmlndXJlKHsgQXV0aDogY29uZmlnT2JqIH0pOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">MWlJME8K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAvLyBhcyB3ZSBhcmUgaW5kamVjdGluZyB0aGVzZSB1c2luZyBgd2VicGFja2AsIHdlIGNhbm5vdCBkZXN0cnVjdHVyZSBgcHJvY2Vzcy5lbnZgIGhlcmUK</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>{
     // Amazon Cognito Region
     region: process.env.AWS_DEFAULT_REGION,
@@ -175,23 +188,11 @@
     }
   }</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ewogICAgLy8gQW1hem9uIENvZ25pdG8gUmVnaW9uCiAgICByZWdpb246IHByb2Nlc3MuZW52LkFXU19ERUZBVUxUX1JFR0lPTiwKICAgIC8vIEFtYXpvbiBDb2duaXRvIFVzZXIgUG9vbCBJRAogICAgdXNlclBvb2xJZDogcHJvY2Vzcy5lbnYuQVdTX1VTRVJfUE9PTCwKICAgIC8vIEFtYXpvbiBDb2duaXRvIFdlYiBDbGllbnQgSUQgKDI2LWNoYXIgYWxwaGFudW1lcmljIHN0cmluZykKICAgIHVzZXJQb29sV2ViQ2xpZW50SWQ6IHByb2Nlc3MuZW52LkFXU19DTElFTlRfSUQsCgogICAgY29va2llU3RvcmFnZTogewogICAgICAvLyBSRVFVSVJFRCAtIENvb2tpZSBkb21haW4gKG9ubHkgcmVxdWlyZWQgaWYgY29va2llU3RvcmFnZSBpcyBwcm92aWRlZCkKICAgICAgZG9tYWluOiBwcm9jZXNzLmVudi5ET01BSU4sCiAgICAgIC8vIE9QVElPTkFMIC0gQ29va2llIHBhdGgKICAgICAgcGF0aDogJy8nLAogICAgICAvLyBPUFRJT05BTCAtIENvb2tpZSBleHBpcmF0aW9uIGluIGRheXMKICAgICAgZXhwaXJlczogMSwKICAgICAgLy8gT1BUSU9OQUwgLSBDb29raWUgc2VjdXJlIGZsYWcKICAgICAgLy8gRWl0aGVyIHRydWUgb3IgZmFsc2UsIGluZGljYXRpbmcgaWYgdGhlIGNvb2tpZSB0cmFuc21pc3Npb24gcmVxdWlyZXMgYSBzZWN1cmUgcHJvdG9jb2wgKGh0dHBzKS4KICAgICAgc2VjdXJlOiBmYWxzZQogICAgfQogIA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgeyBQcm92aWRlciB9ID0gRXJyb3JNZXNzYWdlU3RvcmU7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEFwcENvbnRleHQgZnJvbSAnQ29udGV4dHMvQXBwQ29udGV4dCc7CmltcG9ydCB7IEVycm9yTWVzc2FnZVN0b3JlIH0gZnJvbSAnU3RvcmVzL0Vycm9yTWVzc2FnZVN0b3JlJzsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2V0IHVzZXInKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSb3V0ZXIgc2hvdyBlcnJvciBwYWdlJyk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSb3V0ZXIgaXMgbG9hZGluZycpO2RkCg==</text>
+        <text encoding="base64">Y29uc3QgeyBQcm92aWRlciB9ID0gRXJyb3JNZXNzYWdlU3RvcmU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
@@ -207,7 +208,7 @@
   <component name="VimSettings">
     <state version="6" enabled="true" />
     <notifications>
-      <idea-join enabled="false" />
+      <idea-join enabled="true" />
       <idea-put enabled="false" />
     </notifications>
   </component>
