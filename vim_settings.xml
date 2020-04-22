@@ -27,15 +27,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" timestamp="1587482555720">
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" timestamp="1587546962988">
         <mark key="[" line="16" column="0" />
         <mark key="^" line="5" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/patientus.devops/playbooks/defaults/vars/security/default.yml" timestamp="1587384972069">
-        <mark key="[" line="68" column="3" />
-        <mark key="]" line="69" column="44" />
-        <mark key="." line="69" column="43" />
-        <mark key="^" line="69" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/testing.yml" timestamp="1587384641093">
         <mark key="[" line="23" column="32" />
@@ -43,7 +37,7 @@
         <mark key="^" line="23" column="32" />
         <mark key="." line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587486059334">
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587546909410">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="69" column="36" />
         <mark key="]" line="70" column="0" />
@@ -59,6 +53,23 @@
       </file>
       <file name="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" timestamp="1587382129397">
         <mark key="'" line="225" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/hocs/withUserRequired.js" timestamp="1587476632074" />
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/ErrorPage/ErrorPage.js" timestamp="1587546981734" />
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/LabeledTextInput/LabeledTextInput.js" timestamp="1587400451262">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="28" />
+        <mark key="^" line="37" column="28" />
+        <mark key="." line="37" column="27" />
+      </file>
+      <file name="/" timestamp="1587467907836">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/patientus.devops/playbooks/defaults/vars/security/default.yml" timestamp="1587384972069">
+        <mark key="[" line="68" column="3" />
+        <mark key="]" line="69" column="44" />
+        <mark key="." line="69" column="43" />
+        <mark key="^" line="69" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/newrelic/infra/files/mysql-config.yml" timestamp="1587121927756">
         <mark key="'" line="20" column="8" />
@@ -77,16 +88,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="9" column="28" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/hocs/withUserRequired.js" timestamp="1587476632074" />
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/LabeledTextInput/LabeledTextInput.js" timestamp="1587400451262">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="28" />
-        <mark key="^" line="37" column="28" />
-        <mark key="." line="37" column="27" />
-      </file>
-      <file name="/" timestamp="1587467907836">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
