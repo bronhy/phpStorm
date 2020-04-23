@@ -111,10 +111,10 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/App.scss" timestamp="1587663455873">
-        <mark key="[" line="155" column="18" />
-        <mark key="]" line="155" column="18" />
-        <mark key="." line="155" column="18" />
+      <file name="$USER_HOME$/Documents/workspace/spotify/src/App.scss" timestamp="1587679675055">
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="." line="200" column="0" />
         <mark key="^" line="148" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/spotify/src/App.css" timestamp="1587568687689">
@@ -198,40 +198,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICA6IHJlbGF0aXZlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>0.8</text>
+        <text>position</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmQiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjYXJkSW1hZ2UiPgogICAgICAgICAgICAgICAgPGltZyBzcmM9Imh0dHBzOi8vaW1hZ2VzLnVuc3BsYXNoLmNvbS9waG90by0xNDk5OTQ2OTgxOTU0LWU3ZjRiMjM0ZDdmYT9peGxpYj1yYi0xLjIuMSZpeGlkPWV5SmhjSEJmYVdRaU9qRXlNRGQ5JmF1dG89Zm9ybWF0JmZpdD1jcm9wJnc9MTM1MCZxPTgwIiBhbHQ9InBlYWNlIiAvPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjYXJkQ29udGVudCI+CiAgICAgICAgICAgICAgICA8aDM+TXVzaWMgZm9yIGNvbmNlbnRyYXRpb248L2gzPgogICAgICAgICAgICAgICAgPHNwYW4+TWluaW1hbGlzbSwgZWxlY3Ryb25pY2EgYW5kIG1vZGVybiAuLi48L3NwYW4+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJwbGF5SWNvbiI+PFBsYXlJY29uIC8+PC9zcGFuPgogICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICA6IHJlbGF0aXZlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA6IDA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICA6IDA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBib3R0b206IDA7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICA6IDA7Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBib3R0b206IDA7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA6IDA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMjYwcHg7</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
