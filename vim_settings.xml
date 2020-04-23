@@ -95,6 +95,11 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/spotify/src/App.scss" timestamp="1587569006026">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/spotify/src/App.css" timestamp="1587568687689">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="4" />
@@ -171,39 +176,8 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+        <text>body {
+  background: black;
 }</text>
       </register>
       <register name="-" type="4">
@@ -213,6 +187,11 @@
         <text>poolMap[pool].userPoolId</text>
       </register>
       <register name="1" type="2">
+        <text>body {
+  background: black;
+}</text>
+      </register>
+      <register name="2" type="2">
         <text>.App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -248,23 +227,20 @@
   }
 }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGhlYWRlciBjbGFzc05hbWU9IkFwcC1oZWFkZXIiPgogICAgICAgIDxpbWcgc3JjPXtsb2dvfSBjbGFzc05hbWU9IkFwcC1sb2dvIiBhbHQ9ImxvZ28iIC8+CiAgICAgICAgPHA+CiAgICAgICAgICBFZGl0IDxjb2RlPnNyYy9BcHAuanM8L2NvZGU+IGFuZCBzYXZlIHRvIHJlbG9hZC4KICAgICAgICA8L3A+CiAgICAgICAgPGEKICAgICAgICAgIGNsYXNzTmFtZT0iQXBwLWxpbmsiCiAgICAgICAgICBocmVmPSJodHRwczovL3JlYWN0anMub3JnIgogICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiCiAgICAgICAgICByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiCiAgICAgICAgPgogICAgICAgICAgTGVhcm4gUmVhY3QKICAgICAgICA8L2E+CiAgICAgIDwvaGVhZGVyPg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGV0IFt0ZXN0LCBzZXRUZXN0XSA9IHVzZVN0YXRlOwo=</text>
+        <text encoding="base64">ICAgICAgPGhlYWRlciBjbGFzc05hbWU9IkFwcC1oZWFkZXIiPgogICAgICAgIDxpbWcgc3JjPXtsb2dvfSBjbGFzc05hbWU9IkFwcC1sb2dvIiBhbHQ9ImxvZ28iIC8+CiAgICAgICAgPHA+CiAgICAgICAgICBFZGl0IDxjb2RlPnNyYy9BcHAuanM8L2NvZGU+IGFuZCBzYXZlIHRvIHJlbG9hZC4KICAgICAgICA8L3A+CiAgICAgICAgPGEKICAgICAgICAgIGNsYXNzTmFtZT0iQXBwLWxpbmsiCiAgICAgICAgICBocmVmPSJodHRwczovL3JlYWN0anMub3JnIgogICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiCiAgICAgICAgICByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiCiAgICAgICAgPgogICAgICAgICAgTGVhcm4gUmVhY3QKICAgICAgICA8L2E+CiAgICAgIDwvaGVhZGVyPg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">bGV0IFt0ZXN0LCBzZXRUZXN0XSA9IHVzZVN0YXRlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmNvbnN0IHBvb2xNYXAgPSB7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNvbnN0IHBvb2xNYXAgPSB7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
