@@ -6,7 +6,10 @@
   </component>
   <component name="VimHistorySettings">
     <history>
-      <history-search />
+      <history-search>
+        <entry>nav</entry>
+        <entry>main</entry>
+      </history-search>
       <history-cmd>
         <entry>x</entry>
       </history-cmd>
@@ -22,80 +25,42 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/svgs/home.svg" timestamp="1587654626084">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/components/Main.js" timestamp="1587727539235">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/components/Playlists.js" timestamp="1587739491512">
-        <mark key="'" line="5" column="4" />
-        <mark key="[" line="62" column="41" />
-        <mark key="]" line="62" column="41" />
-        <mark key="." line="62" column="41" />
-        <mark key="^" line="44" column="147" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" timestamp="1587546962988">
         <mark key="[" line="16" column="0" />
         <mark key="^" line="5" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/testing.yml" timestamp="1587384641093">
-        <mark key="[" line="23" column="32" />
-        <mark key="]" line="23" column="32" />
-        <mark key="^" line="23" column="32" />
-        <mark key="." line="23" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587727952136" />
-      <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/production.yml" timestamp="1587385104634">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="38" />
-        <mark key="]" line="22" column="64" />
-        <mark key="^" line="22" column="64" />
-        <mark key="." line="22" column="63" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/components/Categories.js" timestamp="1587736843954">
-        <mark key="'" line="34" column="7" />
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="21" column="10" />
-        <mark key="." line="21" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/components/Nav.js" timestamp="1587656670549">
+      <file name="$USER_HOME$/Documents/workspace/spotify/src/components/Nav.js" timestamp="1587743783067">
         <mark key="'" line="3" column="54" />
-        <mark key="[" line="3" column="54" />
-        <mark key="]" line="3" column="61" />
-        <mark key="." line="3" column="60" />
-        <mark key="^" line="3" column="61" />
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+        <mark key="^" line="16" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/auth-service/src/hocs/withUserRequired.js" timestamp="1587476632074" />
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/ErrorPage/ErrorPage.js" timestamp="1587546981734" />
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/App.js" timestamp="1587654485121">
-        <mark key="'" line="2" column="31" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="18" />
-        <mark key="." line="8" column="17" />
-        <mark key="^" line="8" column="18" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/LabeledTextInput/LabeledTextInput.js" timestamp="1587400451262">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="28" />
         <mark key="^" line="37" column="28" />
         <mark key="." line="37" column="27" />
       </file>
-      <file name="/" timestamp="1587467907836">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/spotify/src/index.js" timestamp="1587740944718">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="30" />
+        <mark key="^" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/patientus.devops/playbooks/defaults/vars/security/default.yml" timestamp="1587384972069">
-        <mark key="[" line="68" column="3" />
-        <mark key="]" line="69" column="44" />
-        <mark key="." line="69" column="43" />
-        <mark key="^" line="69" column="44" />
+      <file name="$USER_HOME$/Documents/workspace/spotify/src/components/pages/PlaylistPage.js" timestamp="1587746246368">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/auth-service/src/index.js" timestamp="1587727822265">
         <mark key="[" line="4" column="30" />
@@ -105,17 +70,57 @@
       <file name="$USER_HOME$/Documents/workspace/auth-service/src/stores/ErrorMessageStore.js" timestamp="1587399429693">
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/App.scss" timestamp="1587738960378">
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="." line="200" column="0" />
-        <mark key="^" line="148" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/spotify/src/App.css" timestamp="1587568687689">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/spotify/src/svgs/home.svg" timestamp="1587654626084">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/spotify/src/components/Main.js" timestamp="1587743351809">
+        <mark key="[" line="13" column="63" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/spotify/src/components/Playlists.js" timestamp="1587743800778">
+        <mark key="'" line="6" column="4" />
+        <mark key="[" line="61" column="45" />
+        <mark key="]" line="61" column="45" />
+        <mark key="." line="61" column="44" />
+        <mark key="^" line="61" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587727952136" />
+      <file name="$USER_HOME$/Documents/workspace/spotify/src/components/Categories.js" timestamp="1587745760692">
+        <mark key="'" line="34" column="7" />
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="28" column="42" />
+        <mark key="." line="28" column="41" />
+        <mark key="^" line="28" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/spotify/src/components/pages/Playlist.js" timestamp="1587743321687">
+        <mark key="[" line="4" column="43" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/ErrorPage/ErrorPage.js" timestamp="1587546981734" />
+      <file name="$USER_HOME$/Documents/workspace/spotify/src/App.js" timestamp="1587654485121">
+        <mark key="'" line="2" column="31" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="18" />
+      </file>
+      <file name="/" timestamp="1587467907836">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/spotify/src/App.scss" timestamp="1587746401707">
+        <mark key="'" line="221" column="14" />
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="." line="222" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -195,45 +200,51 @@
       <jump line="68" column="0" filename="$USER_HOME$/Documents/workspace/spotify/src/components/Categories.js" />
       <jump line="63" column="7" filename="$USER_HOME$/Documents/workspace/spotify/src/components/Categories.js" />
       <jump line="5" column="4" filename="$USER_HOME$/Documents/workspace/spotify/src/components/Playlists.js" />
+      <jump line="127" column="13" filename="$USER_HOME$/Documents/workspace/spotify/src/App.scss" />
+      <jump line="14" column="7" filename="$USER_HOME$/Documents/workspace/spotify/src/components/pages/PlaylistPage.js" />
+      <jump line="219" column="14" filename="$USER_HOME$/Documents/workspace/spotify/src/App.scss" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>peace</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4O2RkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>peace</text>
+        <text>pageInner</text>
+      </register>
+      <register name="/" type="4">
+        <text>main</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbmFtZTogJ0hvbWUgcGxheWxpc3QgMScsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaW1nOiAnaHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3RvLWRkMTU4NzU4MTgzMzMyOS1lNzk2ZTUxZWY5ODE/aXhsaWI9cmItMS4yLjEmaXhpZD1leUpoY0hCZmFXUWlPakV5TURkOSZhdXRvPWZvcm1hdCZmaXQ9Y3JvcCZ3PTc1MCZxPTgwJwo=</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4O2RkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaW1nOiAnaHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3RvLTE1ODc1ODE4MzMzMjktZTc5NmU1MWVmOTgxP2l4bGliPXJiLTEuMi4xJml4aWQ9ZXlKaGNIQmZhV1FpT2pFeU1EZDkmYXV0bz1mb3JtYXQmZml0PWNyb3Amdz03NTAmcT04MCcK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">YGQK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29sb3I6IHdoaXRlO2RkCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApfWRkCg==</text>
+        <text encoding="base64">ICAgICAgPHNwYW4+VGhpcyBpcyAgaW5kaXZpZHVhbCBwbGF5bGlzdCB7aWR9PC9zcGFuPjwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmQiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjYXJkSW1hZ2UiPgogICAgICAgICAgPGltZyBzcmM9Imh0dHBzOi8vaW1hZ2VzLnVuc3BsYXNoLmNvbS9waG90by0xNDk5OTQ2OTgxOTU0LWU3ZjRiMjM0ZDdmYT9peGxpYj1yYi0xLjIuMSZpeGlkPWV5SmhjSEJmYVdRaU9qRXlNRGQ5JmF1dG89Zm9ybWF0JmZpdD1jcm9wJnc9MTM1MCZxPTgwIiBhbHQ9InBlYWNlIiAvPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjYXJkQ29udGVudCI+CiAgICAgICAgICA8aDM+TXVzaWMgZm9yIGNvbmNlbnRyYXRpb248L2gzPgogICAgICAgICAgPHNwYW4+TWluaW1hbGlzbSwgZWxlY3Ryb25pY2EgYW5kIG1vZGVybiAuLi48L3NwYW4+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJwbGF5SWNvbiI+PFBsYXlJY29uIC8+PC9zcGFuPgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmQiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjYXJkSW1hZ2UiPgogICAgICAgICAgPGltZyBzcmM9Imh0dHBzOi8vaW1hZ2VzLnVuc3BsYXNoLmNvbS9waG90by0xNDk5OTQ2OTgxOTU0LWU3ZjRiMjM0ZDdmYT9peGxpYj1yYi0xLjIuMSZpeGlkPWV5SmhjSEJmYVdRaU9qRXlNRGQ5JmF1dG89Zm9ybWF0JmZpdD1jcm9wJnc9MTM1MCZxPTgwIiBhbHQ9InBlYWNlIiAvPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjYXJkQ29udGVudCI+CiAgICAgICAgICA8aDM+TXVzaWMgZm9yIGNvbmNlbnRyYXRpb248L2gzPgogICAgICAgICAgPHNwYW4+TWluaW1hbGlzbSwgZWxlY3Ryb25pY2EgYW5kIG1vZGVybiAuLi48L3NwYW4+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJwbGF5SWNvbiI+PFBsYXlJY29uIC8+PC9zcGFuPgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmQiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjYXJkSW1hZ2UiPgogICAgICAgICAgPGltZyBzcmM9Imh0dHBzOi8vaW1hZ2VzLnVuc3BsYXNoLmNvbS9waG90by0xNDk5OTQ2OTgxOTU0LWU3ZjRiMjM0ZDdmYT9peGxpYj1yYi0xLjIuMSZpeGlkPWV5SmhjSEJmYVdRaU9qRXlNRGQ5JmF1dG89Zm9ybWF0JmZpdD1jcm9wJnc9MTM1MCZxPTgwIiBhbHQ9InBlYWNlIiAvPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjYXJkQ29udGVudCI+CiAgICAgICAgICA8aDM+TXVzaWMgZm9yIGNvbmNlbnRyYXRpb248L2gzPgogICAgICAgICAgPHNwYW4+TWluaW1hbGlzbSwgZWxlY3Ryb25pY2EgYW5kIG1vZGVybiAuLi48L3NwYW4+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJwbGF5SWNvbiI+PFBsYXlJY29uIC8+PC9zcGFuPgogICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICA8c3Bhbj48L3NwYW4+Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVhY3RDb21wb25lbnQgYXMgUGxheUljb259IGZyb20gInJlYWN0LXNjcmlwdHMiO2RkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVhY3RDb21wb25lbnQgYXMgUGxheUljb24gfSBmcm9tICIuLi9zdmdzL3BsYXkuc3ZnIjsK</text>
+        <text encoding="base64">ICAgICAgPC9MaW5rPgo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
@@ -242,7 +253,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search>main</last-search>
+      <last-offset />
+      <last-pattern>main</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
