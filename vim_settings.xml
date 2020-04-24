@@ -35,11 +35,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/components/Playlists.js" timestamp="1587737394853">
+      <file name="$USER_HOME$/Documents/workspace/spotify/src/components/Playlists.js" timestamp="1587739491512">
         <mark key="'" line="5" column="4" />
-        <mark key="[" line="44" column="30" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+        <mark key="[" line="62" column="41" />
+        <mark key="]" line="62" column="41" />
+        <mark key="." line="62" column="41" />
+        <mark key="^" line="44" column="147" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" timestamp="1587546962988">
         <mark key="[" line="16" column="0" />
@@ -104,7 +105,7 @@
       <file name="$USER_HOME$/Documents/workspace/auth-service/src/stores/ErrorMessageStore.js" timestamp="1587399429693">
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/App.scss" timestamp="1587679744851">
+      <file name="$USER_HOME$/Documents/workspace/spotify/src/App.scss" timestamp="1587738960378">
         <mark key="[" line="200" column="0" />
         <mark key="]" line="200" column="0" />
         <mark key="." line="200" column="0" />
@@ -198,11 +199,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaW1nOiAnaHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3RvLWRkMTU4NzU4MTgzMzMyOS1lNzk2ZTUxZWY5ODE/aXhsaWI9cmItMS4yLjEmaXhpZD1leUpoY0hCZmFXUWlPakV5TURkOSZhdXRvPWZvcm1hdCZmaXQ9Y3JvcCZ3PTc1MCZxPTgwJwo=</text>
+      <register name="&quot;" type="4">
+        <text>peace</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW1nOiAnaHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3RvLTE1ODc1ODE4MzMzMjktZTc5NmU1MWVmOTgxP2l4bGliPXJiLTEuMi4xJml4aWQ9ZXlKaGNIQmZhV1FpT2pFeU1EZDkmYXV0bz1mb3JtYXQmZml0PWNyb3Amdz03NTAmcT04MCc=</text>
+        <text>peace</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbmFtZTogJ0hvbWUgcGxheWxpc3QgMScsCg==</text>
