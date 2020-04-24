@@ -53,11 +53,11 @@
         <mark key="^" line="22" column="64" />
         <mark key="." line="22" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/components/Categories.js" timestamp="1587727650183">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="8" column="42" />
-        <mark key="." line="8" column="41" />
-        <mark key="^" line="8" column="42" />
+      <file name="$USER_HOME$/Documents/workspace/spotify/src/components/Categories.js" timestamp="1587730003616">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="15" column="23" />
+        <mark key="." line="11" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" timestamp="1587382129397">
         <mark key="'" line="225" column="0" />
@@ -183,45 +183,47 @@
       <jump line="2" column="28" filename="$USER_HOME$/Documents/workspace/spotify/src/components/Nav.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/spotify/src/components/Nav.js" />
       <jump line="3" column="54" filename="$USER_HOME$/Documents/workspace/spotify/src/components/Nav.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/Documents/workspace/spotify/src/components/Categories.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/workspace/spotify/src/components/Categories.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxkaXY+PC9kaXY+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>r</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZHNXcmFwIj4K</text>
+        <text encoding="base64">ICAgIHsKICAgICAgaWQ6MSwKICAgICAgbmFtZTogJ0NhdGVnb3J5IDEnCiAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkaXY+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgaWQ6MSwKICAgICAgbmFtZTogJ0NhdGVnb3J5IDEnCiAgICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZHNXcmFwIj4KICAgICAgICAgIDxoMj5Gb2N1czwvaDI+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InNlZUFsbCI+U0VFIEFMTDwvc3Bhbj4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0ic3ViVGV4dCI+TXVzaWMgdG8gaGVscCBjb25jZW50cmF0ZS48L3A+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZHNXcmFwSW5uZXIiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZCI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmRJbWFnZSI+CiAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3RvLTE0OTk5NDY5ODE5NTQtZTdmNGIyMzRkN2ZhP2l4bGliPXJiLTEuMi4xJml4aWQ9ZXlKaGNIQmZhV1FpT2pFeU1EZDkmYXV0bz1mb3JtYXQmZml0PWNyb3Amdz0xMzUwJnE9ODAiIGFsdD0icGVhY2UiIC8+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmRDb250ZW50Ij4KICAgICAgICAgICAgICAgIDxoMz5NdXNpYyBmb3IgY29uY2VudHJhdGlvbjwvaDM+CiAgICAgICAgICAgICAgICA8c3Bhbj5NaW5pbWFsaXNtLCBlbGVjdHJvbmljYSBhbmQgbW9kZXJuIC4uLjwvc3Bhbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InBsYXlJY29uIj48UGxheUljb24gLz48L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZCI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmRJbWFnZSI+CiAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3RvLTE0OTk5NDY5ODE5NTQtZTdmNGIyMzRkN2ZhP2l4bGliPXJiLTEuMi4xJml4aWQ9ZXlKaGNIQmZhV1FpT2pFeU1EZDkmYXV0bz1mb3JtYXQmZml0PWNyb3Amdz0xMzUwJnE9ODAiIGFsdD0icGVhY2UiIC8+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmRDb250ZW50Ij4KICAgICAgICAgICAgICAgIDxoMz5NdXNpYyBmb3IgY29uY2VudHJhdGlvbjwvaDM+CiAgICAgICAgICAgICAgICA8c3Bhbj5NaW5pbWFsaXNtLCBlbGVjdHJvbmljYSBhbmQgbW9kZXJuIC4uLjwvc3Bhbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InBsYXlJY29uIj48UGxheUljb24gLz48L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZCI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmRJbWFnZSI+CiAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3RvLTE0OTk5NDY5ODE5NTQtZTdmNGIyMzRkN2ZhP2l4bGliPXJiLTEuMi4xJml4aWQ9ZXlKaGNIQmZhV1FpT2pFeU1EZDkmYXV0bz1mb3JtYXQmZml0PWNyb3Amdz0xMzUwJnE9ODAiIGFsdD0icGVhY2UiIC8+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmRDb250ZW50Ij4KICAgICAgICAgICAgICAgIDxoMz5NdXNpYyBmb3IgY29uY2VudHJhdGlvbjwvaDM+CiAgICAgICAgICAgICAgICA8c3Bhbj5NaW5pbWFsaXNtLCBlbGVjdHJvbmljYSBhbmQgbW9kZXJuIC4uLjwvc3Bhbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InBsYXlJY29uIj48UGxheUljb24gLz48L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgaWQ6MSwKICAgICAgbmFtZTogJ0NhdGVnb3J5IDEnCiAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZHNXcmFwIj4K</text>
+        <text encoding="base64">ICAgIHsKICAgICAgaWQ6MSwKICAgICAgbmFtZTogJ0NhdGVnb3J5IDEnCiAgICB9LAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PGRpdiBjbGFzc05hbWU9ImNhcmRzV3JhcCI+CiAgICAgICAgICA8aDI+VW5pcXVlbHkgeW91cnM8L2gyPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmQiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZEltYWdlIj4KICAgICAgICAgICAgICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3RvLTE0OTk5NDY5ODE5NTQtZTdmNGIyMzRkN2ZhP2l4bGliPXJiLTEuMi4xJml4aWQ9ZXlKaGNIQmZhV1FpT2pFeU1EZDkmYXV0bz1mb3JtYXQmZml0PWNyb3Amdz0xMzUwJnE9ODAiIGFsdD0icGVhY2UiIC8+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZENvbnRlbnQiPgogICAgICAgICAgICAgIDxoMz5MaWtlZCBTb25nczwvaDM+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0icGxheUljb24iPjxQbGF5SWNvbiAvPjwvc3Bhbj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxkaXY+PC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cyByZWxhdGl2ZTsK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZHNXcmFwIj4KICAgICAgICAgIDxoMj5Gb2N1czwvaDI+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InNlZUFsbCI+U0VFIEFMTDwvc3Bhbj4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0ic3ViVGV4dCI+TXVzaWMgdG8gaGVscCBjb25jZW50cmF0ZS48L3A+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZHNXcmFwSW5uZXIiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZCI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmRJbWFnZSI+CiAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3RvLTE0OTk5NDY5ODE5NTQtZTdmNGIyMzRkN2ZhP2l4bGliPXJiLTEuMi4xJml4aWQ9ZXlKaGNIQmZhV1FpT2pFeU1EZDkmYXV0bz1mb3JtYXQmZml0PWNyb3Amdz0xMzUwJnE9ODAiIGFsdD0icGVhY2UiIC8+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmRDb250ZW50Ij4KICAgICAgICAgICAgICAgIDxoMz5NdXNpYyBmb3IgY29uY2VudHJhdGlvbjwvaDM+CiAgICAgICAgICAgICAgICA8c3Bhbj5NaW5pbWFsaXNtLCBlbGVjdHJvbmljYSBhbmQgbW9kZXJuIC4uLjwvc3Bhbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InBsYXlJY29uIj48UGxheUljb24gLz48L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZCI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmRJbWFnZSI+CiAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3RvLTE0OTk5NDY5ODE5NTQtZTdmNGIyMzRkN2ZhP2l4bGliPXJiLTEuMi4xJml4aWQ9ZXlKaGNIQmZhV1FpT2pFeU1EZDkmYXV0bz1mb3JtYXQmZml0PWNyb3Amdz0xMzUwJnE9ODAiIGFsdD0icGVhY2UiIC8+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmRDb250ZW50Ij4KICAgICAgICAgICAgICAgIDxoMz5NdXNpYyBmb3IgY29uY2VudHJhdGlvbjwvaDM+CiAgICAgICAgICAgICAgICA8c3Bhbj5NaW5pbWFsaXNtLCBlbGVjdHJvbmljYSBhbmQgbW9kZXJuIC4uLjwvc3Bhbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InBsYXlJY29uIj48UGxheUljb24gLz48L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZCI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmRJbWFnZSI+CiAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3RvLTE0OTk5NDY5ODE5NTQtZTdmNGIyMzRkN2ZhP2l4bGliPXJiLTEuMi4xJml4aWQ9ZXlKaGNIQmZhV1FpT2pFeU1EZDkmYXV0bz1mb3JtYXQmZml0PWNyb3Amdz0xMzUwJnE9ODAiIGFsdD0icGVhY2UiIC8+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmRDb250ZW50Ij4KICAgICAgICAgICAgICAgIDxoMz5NdXNpYyBmb3IgY29uY2VudHJhdGlvbjwvaDM+CiAgICAgICAgICAgICAgICA8c3Bhbj5NaW5pbWFsaXNtLCBlbGVjdHJvbmljYSBhbmQgbW9kZXJuIC4uLjwvc3Bhbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InBsYXlJY29uIj48UGxheUljb24gLz48L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>import {ReactComponent} from &quot;react-scripts&quot;;</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZHNXcmFwIj4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICA6IHJlbGF0aXZlOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">PGRpdiBjbGFzc05hbWU9ImNhcmRzV3JhcCI+CiAgICAgICAgICA8aDI+VW5pcXVlbHkgeW91cnM8L2gyPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmQiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZEltYWdlIj4KICAgICAgICAgICAgICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3RvLTE0OTk5NDY5ODE5NTQtZTdmNGIyMzRkN2ZhP2l4bGliPXJiLTEuMi4xJml4aWQ9ZXlKaGNIQmZhV1FpT2pFeU1EZDkmYXV0bz1mb3JtYXQmZml0PWNyb3Amdz0xMzUwJnE9ODAiIGFsdD0icGVhY2UiIC8+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZENvbnRlbnQiPgogICAgICAgICAgICAgIDxoMz5MaWtlZCBTb25nczwvaDM+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0icGxheUljb24iPjxQbGF5SWNvbiAvPjwvc3Bhbj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">cyByZWxhdGl2ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text>import {ReactComponent} from &quot;react-scripts&quot;;</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
