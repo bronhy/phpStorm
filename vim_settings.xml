@@ -10,33 +10,64 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/workspace/ianmassage.com/deu_txt.asp" timestamp="1587918541093">
+        <mark key="[" line="67" column="19" />
+        <mark key="]" line="67" column="19" />
+        <mark key="." line="67" column="19" />
+        <mark key="^" line="64" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/ianmassage.com/index.asp" timestamp="1587917732979">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/ianmassage.com/kundenangebot.asp" timestamp="1587917805576">
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="0" column="33" />
-        <mark key="^" line="0" column="46" />
-        <mark key="." line="0" column="33" />
+      <file name="$USER_HOME$/Documents/workspace/ianmassage.com/eng_txt.asp" timestamp="1587917946889" />
+      <file name="$USER_HOME$/Documents/workspace/ianmassage.com/kundenangebot.asp" timestamp="1587918397155">
+        <mark key="[" line="0" column="68" />
+        <mark key="]" line="0" column="68" />
+        <mark key="^" line="0" column="68" />
+        <mark key="." line="0" column="67" />
       </file>
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">PGltZyBjbGFzcz0iaW1nRmxvYXRSaWdodCIgc3JjPSJodHRwOi8vd3d3Lmlhbm1hc3NhZ2UuY29tL2ltZy9ha3Rpb24ucG5nIiBhbHQ9IjwlPWthX2FsdCU+IiB0aXRsZT0iPCU9a2FfaV90aXRsZSU+IiA+CjxoMj48JT1rYV90aXRsZSU+PC9oMj4KPHAgY2xhc3M9InR4dCI+PCU9a2FfYm9keTAxJT48L3A+CjxwIGNsYXNzPSJ0eHQiPjwlPWthX2JvZHkwMiU+PC9wPgo8YSBocmVmPSdodHRwczovL2NsaWVudHMubWluZGJvZHlvbmxpbmUuY29tL2FzcC9tYWluX3Nob3AuYXNwP2ZsPXRydWUmdGFiSUQ9MycgIHRhcmdldD0iX25ldyI+Q2xpY2sgSGVyZTwvYT4K</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJPGEgbmFtZT0ia3VuZGVuYW5nZWJvdGUiLz48L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb19pX3RpdGxlPSJuZXVlcyBLdW5kZW5hbmdlYm90Igo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>kundenangebote</text>
+        <text>Buchen Sie Ihre erste Massage in der Massage-Praxis und erhalten Sie die zweite Anwendung kostenlos.</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkJCQkJCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQkJCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQkJPGEgbmFtZT0ia3VuZGVuYW5nZWJvdGUiLz48L2E+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkJPGEgbmFtZT0ia3VuZGVuYW5nZWJvdGUiLz48L2E+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQkJPGEgbmFtZT0iY292aWQtMTkiLz4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQkJPGEgbmFtZT0ia3VuZGVuYW5nZWJvdGUiLz48L2E+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQkJPGEgbmFtZT0ia3VuZGVuYW5nZWJvdGUiLz48L2E+Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">CQkJCQkJPCEtLSNpbmNsdWRlIGZpbGU9Imt1bmRlbmFuZ2Vib3QuYXNwIi0tPgkK</text>
       </register>
       <register name="-" type="4">
-        <text>kundenangebote</text>
+        <text>Buchen Sie Ihre erste Massage in der Massage-Praxis und erhalten Sie die zweite Anwendung kostenlos.</text>
       </register>
     </registers>
   </component>
