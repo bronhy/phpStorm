@@ -1,0 +1,56 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/workspace/ianmassage.com/index.asp" timestamp="1587917732979">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/ianmassage.com/kundenangebot.asp" timestamp="1587917805576">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="33" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQkJPGEgbmFtZT0ia3VuZGVuYW5nZWJvdGUiLz48L2E+Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>kundenangebote</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQkJPCEtLSNpbmNsdWRlIGZpbGU9Imt1bmRlbmFuZ2Vib3QuYXNwIi0tPgkK</text>
+      </register>
+      <register name="-" type="4">
+        <text>kundenangebote</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
