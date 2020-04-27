@@ -4,266 +4,102 @@
       <key-repeat enabled="false" />
     </editor>
   </component>
-  <component name="VimHistorySettings">
-    <history>
-      <history-search>
-        <entry>nav</entry>
-        <entry>main</entry>
-      </history-search>
-      <history-cmd>
-        <entry>x</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" timestamp="1587546962988">
-        <mark key="[" line="16" column="0" />
-        <mark key="^" line="5" column="51" />
+      <file name="$USER_HOME$/Documents/workspace/ianmassage.com/mission_statement.asp" timestamp="1587923243757" />
+      <file name="$USER_HOME$/Documents/workspace/ianmassage.com/mobile/index.asp" timestamp="1587923628482">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="18" column="76" />
+        <mark key="^" line="18" column="76" />
+        <mark key="." line="18" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/components/Nav.js" timestamp="1587743783067">
-        <mark key="'" line="3" column="54" />
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="22" column="33" />
-        <mark key="." line="22" column="33" />
-        <mark key="^" line="16" column="22" />
+      <file name="$USER_HOME$/Documents/workspace/ianmassage.com/deu_txt.asp" timestamp="1587938047165">
+        <mark key="[" line="67" column="1200" />
+        <mark key="]" line="67" column="1199" />
+        <mark key="." line="67" column="1198" />
+        <mark key="^" line="67" column="1199" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/hocs/withUserRequired.js" timestamp="1587476632074" />
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/LabeledTextInput/LabeledTextInput.js" timestamp="1587400451262">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="28" />
-        <mark key="^" line="37" column="28" />
-        <mark key="." line="37" column="27" />
+      <file name="$USER_HOME$/Documents/workspace/ianmassage.com/mobile/style.css" timestamp="1587924165285">
+        <mark key="[" line="42" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/index.js" timestamp="1587740944718">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="31" />
-        <mark key="." line="5" column="30" />
-        <mark key="^" line="5" column="31" />
+      <file name="$USER_HOME$/Documents/workspace/ianmassage.com/index.asp" timestamp="1587923626385">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/components/pages/PlaylistPage.js" timestamp="1587746246368">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
+      <file name="$USER_HOME$/Documents/workspace/ianmassage.com/eng_txt.asp" timestamp="1587922721244">
+        <mark key="[" line="85" column="19" />
+        <mark key="]" line="85" column="19" />
+        <mark key="." line="85" column="19" />
+        <mark key="^" line="85" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/index.js" timestamp="1587727822265">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/stores/ErrorMessageStore.js" timestamp="1587399429693">
-        <mark key="^" line="4" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/App.css" timestamp="1587568687689">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/svgs/home.svg" timestamp="1587654626084">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/components/Main.js" timestamp="1587743351809">
-        <mark key="[" line="13" column="63" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/components/Playlists.js" timestamp="1587743800778">
-        <mark key="'" line="6" column="4" />
-        <mark key="[" line="61" column="45" />
-        <mark key="]" line="61" column="45" />
-        <mark key="." line="61" column="44" />
-        <mark key="^" line="61" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" timestamp="1587727952136" />
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/components/Categories.js" timestamp="1587745760692">
-        <mark key="'" line="34" column="7" />
-        <mark key="[" line="26" column="8" />
-        <mark key="]" line="28" column="42" />
-        <mark key="." line="28" column="41" />
-        <mark key="^" line="28" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/components/pages/Playlist.js" timestamp="1587743321687">
-        <mark key="[" line="4" column="43" />
-        <mark key="]" line="4" column="15" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/auth-service/src/components/ErrorPage/ErrorPage.js" timestamp="1587546981734" />
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/App.js" timestamp="1587654485121">
-        <mark key="'" line="2" column="31" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="18" />
-        <mark key="." line="8" column="17" />
-        <mark key="^" line="8" column="18" />
-      </file>
-      <file name="/" timestamp="1587467907836">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/spotify/src/App.scss" timestamp="1587746401707">
-        <mark key="'" line="221" column="14" />
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="0" />
-        <mark key="." line="222" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/ianmassage.com/kundenangebot.asp" timestamp="1587920837308">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="13" column="57" filename="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/newrelic/infra/files/mysql-config.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/newrelic/infra/files/mysql-config.yml" />
-      <jump line="20" column="8" filename="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/newrelic/infra/files/mysql-config.yml" />
-      <jump line="135" column="80" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="136" column="78" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="144" column="4" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="147" column="8" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="143" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="137" column="43" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="130" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="127" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="129" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="142" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="146" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="156" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="164" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="167" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="170" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="182" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="186" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="200" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="212" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="215" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="219" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="223" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="252" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="249" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="239" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="231" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="228" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="225" column="0" filename="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/sms-check/index.php" />
-      <jump line="69" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" />
-      <jump line="65" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" />
-      <jump line="64" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" />
-      <jump line="57" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" />
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/Router/Router.js" />
-      <jump line="24" column="9" filename="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/production.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/mysql.database.all.domains/vars/production.yml" />
-      <jump line="59" column="36" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
-      <jump line="58" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
-      <jump line="40" column="39" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
-      <jump line="55" column="4" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
-      <jump line="103" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
-      <jump line="97" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
-      <jump line="85" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
-      <jump line="66" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
-      <jump line="53" column="0" filename="$USER_HOME$/Documents/workspace/auth-service/src/components/App/App.js" />
-      <jump line="2" column="31" filename="$USER_HOME$/Documents/workspace/spotify/src/App.js" />
-      <jump line="23" column="17" filename="$USER_HOME$/Documents/workspace/spotify/src/components/Main.js" />
-      <jump line="2" column="28" filename="$USER_HOME$/Documents/workspace/spotify/src/components/Nav.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/spotify/src/components/Nav.js" />
-      <jump line="3" column="54" filename="$USER_HOME$/Documents/workspace/spotify/src/components/Nav.js" />
-      <jump line="20" column="4" filename="$USER_HOME$/Documents/workspace/spotify/src/components/Categories.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/workspace/spotify/src/components/Categories.js" />
-      <jump line="44" column="5" filename="$USER_HOME$/Documents/workspace/spotify/src/components/Categories.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/workspace/spotify/src/components/Categories.js" />
-      <jump line="69" column="0" filename="$USER_HOME$/Documents/workspace/spotify/src/components/Categories.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/Documents/workspace/spotify/src/components/Categories.js" />
-      <jump line="63" column="7" filename="$USER_HOME$/Documents/workspace/spotify/src/components/Categories.js" />
-      <jump line="5" column="4" filename="$USER_HOME$/Documents/workspace/spotify/src/components/Playlists.js" />
-      <jump line="127" column="13" filename="$USER_HOME$/Documents/workspace/spotify/src/App.scss" />
-      <jump line="14" column="7" filename="$USER_HOME$/Documents/workspace/spotify/src/components/pages/PlaylistPage.js" />
-      <jump line="219" column="14" filename="$USER_HOME$/Documents/workspace/spotify/src/App.scss" />
-    </jumps>
+    <jumps />
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4O2RkCg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>pageInner</text>
-      </register>
-      <register name="/" type="4">
-        <text>main</text>
-      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbmFtZTogJ0hvbWUgcGxheWxpc3QgMScsCg==</text>
+        <text encoding="base64">PGltZyBjbGFzcz0iaW1nRmxvYXRSaWdodCIgc3JjPSJodHRwOi8vd3d3Lmlhbm1hc3NhZ2UuY29tL2ltZy9ha3Rpb24ucG5nIiBhbHQ9IjwlPWthX2FsdCU+IiB0aXRsZT0iPCU9a2FfaV90aXRsZSU+IiA+CjxoMj48JT1rYV90aXRsZSU+PC9oMj4KPHAgY2xhc3M9InR4dCI+PCU9a2FfYm9keTAxJT48L3A+CjxwIGNsYXNzPSJ0eHQiPjwlPWthX2JvZHkwMiU+PC9wPgo8YSBocmVmPSdodHRwczovL2NsaWVudHMubWluZGJvZHlvbmxpbmUuY29tL2FzcC9tYWluX3Nob3AuYXNwP2ZsPXRydWUmdGFiSUQ9MycgIHRhcmdldD0iX25ldyI+Q2xpY2sgSGVyZTwvYT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4O2RkCg==</text>
+        <text encoding="base64">CQlrYV9hbHQ9Ik9mZmVyIGZvciBOZXcgQ2xpZW50cyIK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PGg0PjEuQ2xpZW50czwvaDQ+PG9sIHN0eWxlPSdsaXN0LXN0eWxlLXR5cGU6IGxvd2VyLWFscGhhOyc+PGxpPmEuQWxsIGNsaWVudHMgYXJlIHRvIHJlbW92ZSB0aGVpciBzaG9lcyBpbW1lZGlhdGVseSB1cG9uIGVudGVyaW5nIHRoZSBGaXRuZXNzU3R1ZGlvIFNob2UgbWF0IGJ5IGVudHJhbmNlLihNYXNzYWdlIFByYWN0aWNlIGxvY2F0ZWQgaW5zaWRlIEZpdG5lc3MgU3R1ZGlvKTwvbGk+PGxpPmIuQWxsIGNsaWVudHMgdXBvbiBlbnRlcmluZyB0aGUgYnVpbGRpbmcgd2lsbCBiZSByZXF1aXJlZCB0byBpbW1lZGlhdGVseSBoZWFkIHRvIHRoZWJhdGhyb29tIGFuZCB3YXNoIHRoZXJlIGhhbmRzIGluIGFjY29yZGFuY2Ugd2l0aCB0aGUgV0hPIGhhbmQgd2FzaGluZ1Byb2NlZHVyZXM8b2wgc3R5bGU9J2xpc3Qtc3R5bGUtdHlwZTogbG93ZXItcm9tYW47Jz48bGk+KFNlZSBpbnN0cnVjdGlvbnMgaGFuZ2luZyBvbiBCYXRocm9vbSBtaXJyb3JzLik8L2xpPjwvb2w+PC9saT48bGk+Yy5XaGVuIGRpc3JvYmluZyBmb3IgeW91ciBtYXNzYWdlLCBwbGVhc2UgZm9sZCBhbGwgY2xvdGhlcyBuZWF0bHkgYW5kIGxlYXZlIHRoZW1vbiB0aGUgY2hhaXIgaW4gTWFzc2FnZSBTdHVkaW8uPC9saT48bGk+ZC5KZXdlbHJ5IHJpbmdzLCB3YXRjaGVzIGFuZCBnbGFzc2VzIGFyZSB0byBiZSBwbGFjZWQgaW5zaWRlIHByb3ZpZGVkIGJhZ2d5IGFuZGxhaWQgb24gdG9wIG9mIGZvbGRlZCBjbG90aGluZy48L2xpPjxsaT5lLldlIGtpbmRseSBhc2sgeW91IHRvIHB1dCBvbiB5b3VyIHNob2VzIG5leHQgdG8gdGhlIGV4aXQgaW4gdGhlIHNlYXRpbmcgYXJlYS48L2xpPjwvb2w+PGg0PjIuU3R1ZGlvPC9oND48b2wgc3R5bGU9J2xpc3Qtc3R5bGUtdHlwZTogbG93ZXItYWxwaGE7Jz48bGk+T3BlbmluZyBwcm9jZWR1cmVzPG9sIHN0eWxlPSdsaXN0LXN0eWxlLXR5cGU6IGxvd2VyLXJvbWFuOyc+PGxpPkFsbCBkb29ya25vYnMgdG8gd2lwZWQgZG93biB3aXRoIHNhbml0YXRpb24gd2lwZXM8L2xpPjxsaT5NYXNzYWdlIFRhYmxlIHdpcGVkIGRvd24gd2l0aCBTYW5pdGF0aW9uIFNwcmF5PC9saT48bGk+VG93ZXIgV2FybWVyIFdpcGVkIGRvd24gKGluc2lkZSBhbmQgb3V0KTwvbGk+PGxpPkhhbmdlcnMsIENoYWlycywgUGVucyB3aXBlZCBEb3duLDwvbGk+PGxpPlR1cm4gb24gQWlyIEZpbHRyYXRpb24gTWFjaGluZSAoVG8gYmUgcnVuIGFsbCBkYXkpPC9saT48L29sPjwvbGk+PGxpPkFmdGVyIGVhY2ggQ2xpZW50PG9sIHN0eWxlPSdsaXN0LXN0eWxlLXR5cGU6IGxvd2VyLXJvbWFuOyc+PGxpPkRpc3Bvc2FibGUgU2hlZXRzIHRvIGJlIHJlbW92ZWQgZnJvbSBNYXNzYWdlIFRhYmxlLCBhbmQgUGxhY2VkIGluR2FyYmFnZS48L2xpPjxsaT5NYXNzYWdlIFRhYmxlIHRvIGJlIHdpcGVkIGRvd24gd2l0aCBEaXNpbmZlY3Rpb24gU3ByYXk8L2xpPjxsaT5QZW4gdXNlZCB0byBzaWduIENDIFNsaXAgYW5kIGNsaXAgYm9hcmQgdG8gYmUgd2lwZWQgZG93biBhZnRlciBlYWNoIHVzZS48L2xpPjxsaT5Eb29yIGtub2JzLCBNYXNzYWdlIFRvd2VsIFdhcm1lciAoZG9vciksIGhhbmdlcnMgdG8gYmUgd2lwZWQgZG93bndpdGggZGlzaW5mZWN0aW9uIHdpcGVzLjwvbGk+PC9vbD48L2xpPjxsaT5UaGVyYXBpc3Q8b2wgc3R5bGU9J2xpc3Qtc3R5bGUtdHlwZTogbG93ZXItcm9tYW47Jz48bGk+SGFuZHNoYWtlcyBhcmUgdG8gYmUgYXZvaWRlZC48L2xpPjxsaT5NYXNrIGFyZSB0byBiZSB3b3JuIHRoZSBmdWxsIHRpbWU8L2xpPjxsaT5IYW5kd2FzaGluZyBwcm9jZWR1cmVzIHRvIGJlIGZvbGxvd2VkIChhcyBwZXIgdXN1YWwpIGJvdGggYmVmb3JlIGFuZGFmdGVyIG1hc3NhZ2UuPG9sPjxsaT5TZWUgV0hPIGRvY3VtZW50IGh1bmcgaW4gYmF0aHJvb208L2xpPjwvb2w+PC9saT48bGk+SGFuZHMgYXJlIHRvIGJlIHNhbml0aXplZCB3aXRoIEhhbmQgU2FuaXRpemVyIGlmIENhc2ggaXMgdXNlZCBhcyBhIGZvcm0gb2YgcGF5bWVudC48L2xpPjwvb2w+PC9saT48bGk+Q2xvc2luZyBQcm9jZWR1cmVzPG9sIHN0eWxlPSdsaXN0LXN0eWxlLXR5cGU6IGxvd2VyLXJvbWFuOyc+PGxpPkFsbCBkb29yIGtub2JzIHdpcGVkIGRvd248L2xpPjxsaT5NYXNzYWdlIHRhYmxlIGNsZWFuZWQ8L2xpPjxsaT5TdHVkaW8gVmFjdXVtZWQ8L2xpPjxsaT5Db21wdXRlciBEZXNrIHdpcGVkIGRvd24gYW5kIFNhbml0aXplZC48L2xpPjxsaT5Ub3dlbCBXYXJtZXIgd2lwZWQgZG93biBhbmQgc2FuaXRpemVkPC9saT48bGk+QWxsIHVudXNlZCB0b3dlbHMgdG8gYmUgcGxhY2VkIGluIExhdW5kcnk8L2xpPjxsaT5BbGwgd3JpdGluZyBlcXVpcG1lbnQgdG8gYmUgd2lwZWQgZG93bi48L2xpPjxsaT5MYXVuZHJ5IGJhZyB0byBiZSBzZWFsZWQuaXguQWlyIGZpbHRyYXRpb24gbWFjaGluZSBjbGVhbmVkLjwvbGk+PC9vbD48L2xpPjxsaT5MYXVuZHJ5IFdhc2hpbmcgUHJvY2VkdXJlczxvbCBzdHlsZT0nbGlzdC1zdHlsZS10eXBlOiBsb3dlci1yb21hbjsnPjxsaT5BbGwgc2hlZXRzLCBUb3dlbHMgYW5kIGNsb3RoaW5nIHRvIGJlIHdhc2hlZCBhdCA2MCZkZWc7QzwvbGk+PGxpPmlpLlNhZ3JvdGFuIERpc2luZmVjdGFudCBXYXNoIEh5Z2llbmUgcmluc2UgdG8gYmUgdXNlZCBpbiBhbGwgd2FzaGluZ3MgYW5kYnJvdWdodCBiYWNrIHRvIHRoZSBzdHVkaW8uPC9saT48L29sPjwvbGk+PC9vbD4u</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQlrYV9ib2R5MDI9Ijx1bCBjbGFzcz0nYmxhY2snPjxsaT5UaGlzIG9mZmVyIGlzIG9ubHkgZ29vZCBmb3IgZmlyc3QgdGltZSB2aXNpdG9ycyB0byB0aGUgcHJhY3RpY2U8L2xpPiA8bGk+VGhpcyBvZmZlciBjYW5ub3QgYmUgY29tYmluZWQgd2l0aCBhbnkgb3RoZXIgb2ZmZXI8L2xpPiA8bGk+Qm90aCBhcHBvaW50bWVudHMgYXJlIDxiPm9ubHk8L2I+IHZhbGlkIGZvciB0aGUgc2FtZSBwZXJzb24gKDJuZCBhcHBvaW50bWVudCBjYW4gbm90IGJlIGdpdmVuIHRvIGFub3RoZXIgcGVyc29uLik8L2xpPiA8bGk+Qm90aCBhcHBvaW50bWVudCBtdXN0IGJlIG9mIHRoZSBzYW1lIHR5cGU8L2xpPiA8L3VsPiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29sb3I6IHdoaXRlO2RkCg==</text>
+        <text encoding="base64">CQk9IiIgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">PGgzPjEuS3VuZGVuPC9oMz48b2wgc3R5bGU9Imxpc3Qtc3R5bGUtdHlwZTogbG93ZXItYWxwaGE7Ij4KICAgICAgICAgICAgICAgICAgIDxsaT5BbGxlIEt1bmRlbiBtJnV1bWw7c3NlbiBpaHJlIFNjaHVoZSB1bWdlaGVuZCBiZWltIEJldHJldGVuIGRlcyBGaXRuZXNzLVN0dWRpb3MgYXVmZGVyIFNjaHVobWF0dGUgYW0gRWluZ2FuZyBhdXN6aWVoZW4uIChEaWUgTWFzc2FnZXByYXhpcyBiZWZpbmRldCBzaWNoIGltRml0bmVzcy1TdHVkaW8uKTwvbGk+CiAgICAgICAgICAgICAgICAgICA8bGk+QWxsZSBLdW5kZW4gbSZ1dW1sO3NzZW4gc2ljaCBiZWltIEJldHJldGVuIGRlcyBHZWImYXVtbDt1ZGVzIHVtZ2VoZW5kIHp1IGRlbiBUb2lsZXR0ZW5iZWdlYmVuIHVuZCBkb3J0IGlocmUgSCZhdW1sO25kZSBnZW0mYXVtbDsmc3psaWc7IGRlbiBXSE8gUmljaHRsaW5pZW4gZiZ1dW1sO3IgZGllIGtvcnJla3RlSGFuZGh5Z2llbmUgd2FzY2hlbgogICAgICAgICAgICAgICAgICAgPG9sIHN0eWxlPSJsaXN0LXN0eWxlLXR5cGU6IGxvd2VyLXJvbWFuOyI+CiAgICAgICAgICAgICAgICAgICA8bGk+KFNpZWhlIEFud2Vpc3VuZ2VuLCBkaWUgYW4gZGVuIEJhZGV6aW1tZXJzcGllZ2VsbiBoJmF1bWw7bmdlbi4pPC9saT4KICAgICAgICAgICAgICAgICAgIDwvb2w+CiAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgPGxpPmMuV2VubiBTaWUgc2ljaCBmJnV1bWw7ciBJaHJlIE1hc3NhZ2UgZW50a2xlaWRlbiwgZmFsdGVuIFNpZSBiaXR0ZSBpaHJlIGdlc2FtdGUgS2xlaWR1bmdvcmRlbnRsaWNoIHp1c2FtbWVuIHVuZCBsYXNzZW4gU2llIHNpZSBhdWYgZGVtIFN0dWhsIGltIE1hc3NhZ2VzdHVkaW8uPC9saT4KICAgICAgICAgICAgICAgICAgIDxsaT5kLlNjaG11Y2ssIFJpbmdlLCBVaHJlbiB1bmQgQnJpbGxlbiBtJnV1bWw7c3NlbiBpbiBkaWUgZGFmJnV1bWw7ciB2b3JnZXNlaGVuZW4gUyZhdW1sO2NrZSBnZWxlZ3R1bmQgYXVmIGRpZSBnZWZhbHRldGUgS2xlaWR1bmcgYWJnZWxlZ3Qgd2VyZGVuLjwvbGk+CiAgICAgICAgICAgICAgICAgICA8bGk+ZS5XaXIgYml0dGVuIFNpZSBmcmV1bmRsaWNoIGRhcnVtLCBJaHJlIFNjaHVoZSBpbSBTaXR6YmVyZWljaCBuZWJlbiBkZW0gQXVzZ2FuZ2FuenV6aWVoZW4uPC9saT4KICAgICAgICAgICAgICAgICAgIDwvb2w+CiAgICAgICAgICAgICAgICAgICA8aDM+Mi5TdHVkaW88L2gzPgogICAgICAgICAgICAgICAgICAgPG9sIHN0eWxlPSJsaXN0LXN0eWxlLXR5cGU6IGxvd2VyLWFscGhhOyI+CiAgICAgICAgICAgICAgICAgICA8bGk+Jk91bWw7ZmZudW5nc3ZvcmcmYXVtbDtuZ2UKICAgICAgICAgICAgICAgICAgIDxvbCBzdHlsZT0ibGlzdC1zdHlsZS10eXBlOiBsb3dlci1yb21hbjsiPgogICAgICAgICAgICAgICAgICAgPGxpPkFsbGUgVCZ1dW1sO3JncmlmZmUgbWl0IFJlaW5pZ3VuZ3N0JnV1bWw7Y2hlcm4gYWJnZXdpc2NodDwvbGk+CiAgICAgICAgICAgICAgICAgICA8bGk+aU1hc3NhZ2V0aXNjaGUgbWl0IEh5Z2llbmUtU3ByYXkgYWJnZXdpc2NodDwvbGk+CiAgICAgICAgICAgICAgICAgICA8bGk+SGFuZHR1Y2h3JmF1bWw7cm1lciBhYmdld2lzY2h0IChpbm5lbiB1bmQgYXUmc3psaWc7ZW4pPC9saT4KICAgICAgICAgICAgICAgICAgIDxsaT5LbGVpZGVyYiZ1dW1sO2dlbCwgU3QmdXVtbDtobGUsIFN0aWZ0ZSBhYmdld2lzY2h0LDwvbGk+CiAgICAgICAgICAgICAgICAgICA8bGk+THVmdGZpbHRlcm1hc2NoaW5lIGVpbnNjaGFsdGVuIChkZW4gZ2FuemVuIFRhZyBsYXVmZW4gbGFzc2VuKTwvbGk+CiAgICAgICAgICAgICAgICAgICA8L29sPgogICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgIDxsaT5OYWNoIGplZGVtIEt1bmRlbgogICAgICAgICAgICAgICAgICAgPG9sIHN0eWxlPSJsaXN0LXN0eWxlLXR5cGU6IGxvd2VyLXJvbWFuOyI+CiAgICAgICAgICAgICAgICAgICA8bGk+RWlud2VnLUxha2VuIHdlcmRlbiB2b24gZGVuIE1hc3NhZ2V0aXNjaGVuIGVudGZlcm50LCB1bmQgaW0gTSZ1dW1sO2xsZWltZXJlbnRzb3JndC48L2xpPgogICAgICAgICAgICAgICAgICAgPGxpPk1hc3NhZ2V0aXNjaGUgd2VyZGVuIG1pdCBEZXNpbmZla3Rpb25zLVNwcmF5IGFiZ2V3aXNjaHQ8L2xpPgogICAgICAgICAgICAgICAgICAgPGxpPlN0aWZ0LCBtaXQgZGVtIGRlciBLYXVmYmVsZWcgdW50ZXJzY2hyaWViZW4gd3VyZGUgdW5kIGRhcyBLbGVtbWJyZXR0bSZ1dW1sO3NzZW4gbmFjaCBqZWRlciBBbndlbmR1bmcgYWJnZXdpc2NodCB3ZXJkZW4uPC9saT4KICAgICAgICAgICAgICAgICAgIDxsaT5UJnV1bWw7cmdyaWZmZSwgTWFzc2FnZS1IYW5kdHVjaHcmYXVtbDtybWVyIChUJnV1bWw7ciksIEtsZWlkZXJiJnV1bWw7Z2VsIG0mdXVtbDtzc2VuIG1pdERlc2luZmVrdGlvbnN0JnV1bWw7Y2hlcm4gYWJnZXdpc2NodCB3ZXJkZW4uPC9saT4KICAgICAgICAgICAgICAgICAgIDwvb2w+CiAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgPGxpPlRoZXJhcGV1dAogICAgICAgICAgICAgICAgICAgPG9sIHN0eWxlPSJsaXN0LXN0eWxlLXR5cGU6IGxvd2VyLXJvbWFuOyI+CiAgICAgICAgICAgICAgICAgICA8bGk+SCZhdW1sO25kZXNjaCZ1dW1sO3R0ZWxuIG11c3MgdmVybWllZGVuIHdlcmRlbi48L2xpPgogICAgICAgICAgICAgICAgICAgPGxpPk1hc2tlbiBtJnV1bWw7c3NlbiBkaWUgZ2FuemUgWmVpdCBnZXRyYWdlbiB3ZXJkZW48L2xpPgogICAgICAgICAgICAgICAgICAgPGxpPkRpZSBIJmF1bWw7bmRld2FzY2h2ZXJmYWhyZW4gbSZ1dW1sO3NzZW4gKHdpZSAmdXVtbDtibGljaCkgc293b2hsIHZvciBhbHMgYXVjaCBuYWNoIGRlck1hc3NhZ2UgYmVmb2xndCB3ZXJkZW4uCiAgICAgICAgICAgICAgICAgICA8b2w+CiAgICAgICAgICAgICAgICAgICA8bGk+MS5TaWVoZSBXSE8tRG9rdW1lbnQsIGRhcyBpbSBCYWRlemltbWVyIGgmYXVtbDtuZ3Q8L2xpPgogICAgICAgICAgICAgICAgICAgPC9vbD4KICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICA8bGk+RGllIEgmYXVtbDtuZGUgbSZ1dW1sO3NzZW4gbWl0IERlc2luZmVrdGlvbnNtaXR0ZWwgZGVzaW5maXppZXJ0IHdlcmRlbiwgd2VubiBCYXJnZWxkYWxzIFphaGx1bmdzYXJ0IGdlbnV0enQgd2lyZC48L2xpPgogICAgICAgICAgICAgICAgICAgPC9vbD4KICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICA8bGk+ZC5TY2hsaWUmc3psaWc7dm9yZyZhdW1sO25nZQogICAgICAgICAgICAgICAgICAgPG9sIHN0eWxlPSJsaXN0LXN0eWxlLXR5cGU6IGxvd2VyLXJvbWFuOyI+CiAgICAgICAgICAgICAgICAgICA8bGk+QWxsZSBUJnV1bWw7cmdyaWZmZSBhYmdld2lzY2h0PC9saT4KICAgICAgICAgICAgICAgICAgIDxsaT5pTWFzc2FnZXRpc2NoZSBnZXMmYXVtbDt1YmVydDwvbGk+CiAgICAgICAgICAgICAgICAgICA8bGk+U3R1ZGlvIGdlc3RhdWJzYXVndDwvbGk+CiAgICAgICAgICAgICAgICAgICA8bGk+Q29tcHV0ZXItU2NocmVpYnRpc2NoZSBhYmdld2lzY2h0IHVuZCBkZXNpbmZpemllcnQuPC9saT4KICAgICAgICAgICAgICAgICAgIDxsaT5IYW5kdHVjaHcmYXVtbDtybWVyIGFiZ2V3aXNjaHQgdW5kIGRlc2luZml6aWVydDwvbGk+CiAgICAgICAgICAgICAgICAgICA8bGk+QWxsZSB1bmJlbnV0enRlbiBIYW5kdCZ1dW1sO2NoZXIgbSZ1dW1sO3NzZW4gaW4gZGllIFcmYXVtbDtzY2hlIGdlZ2ViZW4gd2VyZGVuPC9saT4KICAgICAgICAgICAgICAgICAgIDxsaT5BbGxlIFNjaHJlaWJ1dGVuc2lsaWVuIG0mdXVtbDtzc2VuIGFiZ2V3aXNjaHQgd2VyZGVuLjwvbGk+CiAgICAgICAgICAgICAgICAgICA8bGk+VyZhdW1sO3NjaGVzJmF1bWw7Y2tlIG0mdXVtbDtzc2VuIHZlcnNjaGxvc3NlbiB3ZXJkZW4uPC9saT4KICAgICAgICAgICAgICAgICAgIDxsaT5MdWZ0ZmlsdGVybWFzY2hpbmUgZ2VzJmF1bWw7dWJlcnQuPC9saT4KICAgICAgICAgICAgICAgICAgIDwvb2w+CiAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgPGxpPmUuVyZhdW1sO3NjaGUtV2FzY2h2ZXJmYWhyZW4KICAgICAgICAgICAgICAgICAgIDxvbCBzdHlsZT0ibGlzdC1zdHlsZS10eXBlOiBsb3dlci1yb21hbjsiPgogICAgICAgICAgICAgICAgICAgPGxpPkFsbGUgTGFrZW4sIEhhbmR0JnV1bWw7Y2hlciB1bmQgS2xlaWR1bmcgbSZ1dW1sO3NzZW4gYmVpIDYwICZkZWc7QyBnZXdhc2NoZW4gd2VyZGVuLjwvbGk+CiAgICAgICAgICAgICAgICAgICA8bGk+U2Fncm90YW4gVyZhdW1sO3NjaGUtSHlnaWVuZXNwJnV1bWw7bGVyIG11c3MgYmVpIGplZGVtIFdhc2Nodm9yZ2FuZyB2ZXJ3ZW5kZXR1bmQgenVyJnV1bWw7Y2sgaW5zIFN0dWRpbyBnZWJyYWNodCB3ZXJkZW4uPC9saT4KICAgICAgICAgICAgICAgICAgIDwvb2w+CiAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgPC9vbA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHNwYW4+VGhpcyBpcyAgaW5kaXZpZHVhbCBwbGF5bGlzdCB7aWR9PC9zcGFuPjwvZGl2Pgo=</text>
+        <text encoding="base64">PGEgaHJlZj0naHR0cHM6Ly9jbGllbnRzLm1pbmRib2R5b25saW5lLmNvbS9hc3AvbWFpbl9zaG9wLmFzcD9mbD10cnVlJnRhYklEPTMnICB0YXJnZXQ9Il9uZXciPkNsaWNrIEhlcmU8L2E+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8c3Bhbj48L3NwYW4+Cg==</text>
+        <text encoding="base64">PHAgY2xhc3M9InR4dCI+PCU9a2FfYm9keTAyJT48L3A+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBrYV9ib2R5MDI9Ijx1bCBjbGFzcz0nYmxhY2snPjxsaT5EaWVzZXMgQW5nZWJvdCBnaWx0IG51ciBmw7xyIEt1bmRlbiwgZGllIGRpZSBQcmF4aXMgenVtIGVyc3RlbiBNYWwgYmVzdWNoZW48L2xpPiA8bGk+RGllc2VzIEFuZ2Vib3Qga2FubiBuaWNodCBtaXQgYW5kZXJlbiBBbmdlYm90ZW4ga29tYmluaWVydCB3ZXJkZW48L2xpPiA8bGk+QmVpZGUgQW53ZW5kdW5nZW4gc2luZCA8Yj5udXI8L2I+IGbDvHIgZGllc2VsYmUgUGVyc29uIGfDvGx0aWcgKGRpZSB6d2VpdGUgQW53ZW5kdW5nIGthbm4gbmljaHQgYXVmIGVpbmUgYW5kZXJlIFBlcnNvbiDDvGJlcnRyYWdlbiB3ZXJkZW4pLjwvbGk+IDxsaT5CZWlkZSBBbndlbmR1bmdlbiBtw7xzc2VuIHZvbSBzZWxiZW4gQXJ0IHNlaW48L2xpPiA8L3VsPiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBrYV9ib2R5MDM9IiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9MaW5rPgo=</text>
+        <text encoding="base64">ICAgICAgICBjb19pX3RpdGxlPSJuZXVlcyBLdW5kZW5hbmdlYm90Igo=</text>
       </register>
-      <register name=":" type="4">
-        <text>x</text>
+      <register name="-" type="4">
+        <text encoding="base64">PGg0PjEuQ2xpZW50czwvaDQ+PG9sIHN0eWxlPSdsaXN0LXN0eWxlLXR5cGU6IGxvd2VyLWFscGhhOyc+PGxpPmEuQWxsIGNsaWVudHMgYXJlIHRvIHJlbW92ZSB0aGVpciBzaG9lcyBpbW1lZGlhdGVseSB1cG9uIGVudGVyaW5nIHRoZSBGaXRuZXNzU3R1ZGlvIFNob2UgbWF0IGJ5IGVudHJhbmNlLihNYXNzYWdlIFByYWN0aWNlIGxvY2F0ZWQgaW5zaWRlIEZpdG5lc3MgU3R1ZGlvKTwvbGk+PGxpPmIuQWxsIGNsaWVudHMgdXBvbiBlbnRlcmluZyB0aGUgYnVpbGRpbmcgd2lsbCBiZSByZXF1aXJlZCB0byBpbW1lZGlhdGVseSBoZWFkIHRvIHRoZWJhdGhyb29tIGFuZCB3YXNoIHRoZXJlIGhhbmRzIGluIGFjY29yZGFuY2Ugd2l0aCB0aGUgV0hPIGhhbmQgd2FzaGluZ1Byb2NlZHVyZXM8b2wgc3R5bGU9J2xpc3Qtc3R5bGUtdHlwZTogbG93ZXItcm9tYW47Jz48bGk+KFNlZSBpbnN0cnVjdGlvbnMgaGFuZ2luZyBvbiBCYXRocm9vbSBtaXJyb3JzLik8L2xpPjwvb2w+PC9saT48bGk+Yy5XaGVuIGRpc3JvYmluZyBmb3IgeW91ciBtYXNzYWdlLCBwbGVhc2UgZm9sZCBhbGwgY2xvdGhlcyBuZWF0bHkgYW5kIGxlYXZlIHRoZW1vbiB0aGUgY2hhaXIgaW4gTWFzc2FnZSBTdHVkaW8uPC9saT48bGk+ZC5KZXdlbHJ5IHJpbmdzLCB3YXRjaGVzIGFuZCBnbGFzc2VzIGFyZSB0byBiZSBwbGFjZWQgaW5zaWRlIHByb3ZpZGVkIGJhZ2d5IGFuZGxhaWQgb24gdG9wIG9mIGZvbGRlZCBjbG90aGluZy48L2xpPjxsaT5lLldlIGtpbmRseSBhc2sgeW91IHRvIHB1dCBvbiB5b3VyIHNob2VzIG5leHQgdG8gdGhlIGV4aXQgaW4gdGhlIHNlYXRpbmcgYXJlYS48L2xpPjwvb2w+PGg0PjIuU3R1ZGlvPC9oND48b2wgc3R5bGU9J2xpc3Qtc3R5bGUtdHlwZTogbG93ZXItYWxwaGE7Jz48bGk+T3BlbmluZyBwcm9jZWR1cmVzPG9sIHN0eWxlPSdsaXN0LXN0eWxlLXR5cGU6IGxvd2VyLXJvbWFuOyc+PGxpPkFsbCBkb29ya25vYnMgdG8gd2lwZWQgZG93biB3aXRoIHNhbml0YXRpb24gd2lwZXM8L2xpPjxsaT5NYXNzYWdlIFRhYmxlIHdpcGVkIGRvd24gd2l0aCBTYW5pdGF0aW9uIFNwcmF5PC9saT48bGk+VG93ZXIgV2FybWVyIFdpcGVkIGRvd24gKGluc2lkZSBhbmQgb3V0KTwvbGk+PGxpPkhhbmdlcnMsIENoYWlycywgUGVucyB3aXBlZCBEb3duLDwvbGk+PGxpPlR1cm4gb24gQWlyIEZpbHRyYXRpb24gTWFjaGluZSAoVG8gYmUgcnVuIGFsbCBkYXkpPC9saT48L29sPjwvbGk+PGxpPkFmdGVyIGVhY2ggQ2xpZW50PG9sIHN0eWxlPSdsaXN0LXN0eWxlLXR5cGU6IGxvd2VyLXJvbWFuOyc+PGxpPkRpc3Bvc2FibGUgU2hlZXRzIHRvIGJlIHJlbW92ZWQgZnJvbSBNYXNzYWdlIFRhYmxlLCBhbmQgUGxhY2VkIGluR2FyYmFnZS48L2xpPjxsaT5NYXNzYWdlIFRhYmxlIHRvIGJlIHdpcGVkIGRvd24gd2l0aCBEaXNpbmZlY3Rpb24gU3ByYXk8L2xpPjxsaT5QZW4gdXNlZCB0byBzaWduIENDIFNsaXAgYW5kIGNsaXAgYm9hcmQgdG8gYmUgd2lwZWQgZG93biBhZnRlciBlYWNoIHVzZS48L2xpPjxsaT5Eb29yIGtub2JzLCBNYXNzYWdlIFRvd2VsIFdhcm1lciAoZG9vciksIGhhbmdlcnMgdG8gYmUgd2lwZWQgZG93bndpdGggZGlzaW5mZWN0aW9uIHdpcGVzLjwvbGk+PC9vbD48L2xpPjxsaT5UaGVyYXBpc3Q8b2wgc3R5bGU9J2xpc3Qtc3R5bGUtdHlwZTogbG93ZXItcm9tYW47Jz48bGk+SGFuZHNoYWtlcyBhcmUgdG8gYmUgYXZvaWRlZC48L2xpPjxsaT5NYXNrIGFyZSB0byBiZSB3b3JuIHRoZSBmdWxsIHRpbWU8L2xpPjxsaT5IYW5kd2FzaGluZyBwcm9jZWR1cmVzIHRvIGJlIGZvbGxvd2VkIChhcyBwZXIgdXN1YWwpIGJvdGggYmVmb3JlIGFuZGFmdGVyIG1hc3NhZ2UuPG9sPjxsaT5TZWUgV0hPIGRvY3VtZW50IGh1bmcgaW4gYmF0aHJvb208L2xpPjwvb2w+PC9saT48bGk+SGFuZHMgYXJlIHRvIGJlIHNhbml0aXplZCB3aXRoIEhhbmQgU2FuaXRpemVyIGlmIENhc2ggaXMgdXNlZCBhcyBhIGZvcm0gb2YgcGF5bWVudC48L2xpPjwvb2w+PC9saT48bGk+Q2xvc2luZyBQcm9jZWR1cmVzPG9sIHN0eWxlPSdsaXN0LXN0eWxlLXR5cGU6IGxvd2VyLXJvbWFuOyc+PGxpPkFsbCBkb29yIGtub2JzIHdpcGVkIGRvd248L2xpPjxsaT5NYXNzYWdlIHRhYmxlIGNsZWFuZWQ8L2xpPjxsaT5TdHVkaW8gVmFjdXVtZWQ8L2xpPjxsaT5Db21wdXRlciBEZXNrIHdpcGVkIGRvd24gYW5kIFNhbml0aXplZC48L2xpPjxsaT5Ub3dlbCBXYXJtZXIgd2lwZWQgZG93biBhbmQgc2FuaXRpemVkPC9saT48bGk+QWxsIHVudXNlZCB0b3dlbHMgdG8gYmUgcGxhY2VkIGluIExhdW5kcnk8L2xpPjxsaT5BbGwgd3JpdGluZyBlcXVpcG1lbnQgdG8gYmUgd2lwZWQgZG93bi48L2xpPjxsaT5MYXVuZHJ5IGJhZyB0byBiZSBzZWFsZWQuaXguQWlyIGZpbHRyYXRpb24gbWFjaGluZSBjbGVhbmVkLjwvbGk+PC9vbD48L2xpPjxsaT5MYXVuZHJ5IFdhc2hpbmcgUHJvY2VkdXJlczxvbCBzdHlsZT0nbGlzdC1zdHlsZS10eXBlOiBsb3dlci1yb21hbjsnPjxsaT5BbGwgc2hlZXRzLCBUb3dlbHMgYW5kIGNsb3RoaW5nIHRvIGJlIHdhc2hlZCBhdCA2MCZkZWc7QzwvbGk+PGxpPmlpLlNhZ3JvdGFuIERpc2luZmVjdGFudCBXYXNoIEh5Z2llbmUgcmluc2UgdG8gYmUgdXNlZCBpbiBhbGwgd2FzaGluZ3MgYW5kYnJvdWdodCBiYWNrIHRvIHRoZSBzdHVkaW8uPC9saT48L29sPjwvbGk+PC9vbD4u</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>main</last-search>
-      <last-offset />
-      <last-pattern>main</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
     <notifications>
-      <idea-join enabled="true" />
+      <idea-join enabled="false" />
       <idea-put enabled="false" />
     </notifications>
   </component>
