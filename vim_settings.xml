@@ -9,11 +9,36 @@
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/workspace/custom-auth/index.php" timestamp="1588088798675">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+    </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text>echo 'hello';</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text>echo 'hello';</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PD9waHAK</text>
+      </register>
+      <register name="5" type="2">
+        <text>[17:09] Thomas Grass - jameda</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
