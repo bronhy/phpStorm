@@ -15,6 +15,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/newrelic/infra/tasks/main.yml" timestamp="1588150445101">
+        <mark key="[" line="33" column="57" />
+        <mark key="]" line="41" column="14" />
+        <mark key="^" line="41" column="14" />
+        <mark key="." line="41" column="13" />
+      </file>
     </filemarks>
     <jumps />
   </component>
