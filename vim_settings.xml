@@ -4,6 +4,13 @@
       <key-repeat enabled="false" />
     </editor>
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>hero</entry>
+      </history-search>
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -20,69 +27,92 @@
         <mark key="^" line="41" column="14" />
         <mark key="." line="41" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/ianmassage.com/eng_txt.asp" timestamp="1587938135017">
-        <mark key="[" line="85" column="2575" />
-        <mark key="]" line="85" column="19" />
-        <mark key="." line="85" column="19" />
-        <mark key="^" line="85" column="24" />
-      </file>
       <file name="/PHP Console" timestamp="1588168058614">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1588334339439">
+      <file name="/JavaScript Console" timestamp="1588339105012">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/playbooks/server/peer-server.yml" timestamp="1588151158443">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/binarius.eu/index.html" timestamp="1588335055640">
-        <mark key="[" line="227" column="34" />
-        <mark key="]" line="227" column="34" />
-        <mark key="^" line="228" column="65" />
-        <mark key="." line="227" column="34" />
+      <file name="$USER_HOME$/Documents/workspace/binarius.eu/index.html" timestamp="1588339499186">
+        <mark key="'" line="197" column="109" />
+        <mark key="[" line="173" column="157" />
+        <mark key="]" line="173" column="158" />
+        <mark key="^" line="173" column="158" />
+        <mark key="." line="173" column="157" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/custom-auth/index.php" timestamp="1588089760773">
         <mark key="[" line="42" column="3" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/" timestamp="1588334340119">
+      <file name="/" timestamp="1588339105337">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/binarius.eu/css/main.css" timestamp="1588339082475">
+        <mark key="'" line="122" column="20" />
+        <mark key="[" line="117" column="16" />
+        <mark key="]" line="117" column="19" />
+        <mark key="." line="117" column="16" />
+        <mark key="^" line="89" column="22" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="121" column="20" filename="$USER_HOME$/Documents/workspace/binarius.eu/css/main.css" />
+      <jump line="199" column="109" filename="$USER_HOME$/Documents/workspace/binarius.eu/index.html" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cDovL2NvZGUuaW9uaWNmcmFtZXdvcmsuY29tL0lPTklDT05TLzIuMC4xL2Nzcy9pb25pY29ucy5taW4uY3NzIj4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2ljaW5nIGVsaXQsIHNlZCBkbyBlaXVzbW9kIHRlbXBvciBpbmNpZGlkdW50IHV0IGxhYm9yZQogICAgICAgICAgICAgICAgICAgIGV0IDxicj4gZG9sb3JlIG1hZ25hIGFsaXF1YS4gVXQgZW5pbSBhZCBtaW5pbSB2ZW5pYW0sIHF1aXMgbm9zdHJ1ZCBleGVyY2l0YXRpb24gdWxsYW1jbyBsYWJvcmlzIG5pc2kKICAgICAgICAgICAgICAgICAgICB1dCBhbGlxdWlwIGV4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Consulting</text>
+        <text>the success</text>
       </register>
-      <register name="2" type="2">
-        <text>echo 'hello';</text>
+      <register name="2" type="4">
+        <text>Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt
+                            ut</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="3" type="4">
+        <text>Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt
+                            ut</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGgzPk1vZGVyZEluIEFwcGxpY2F0aW9uPC9oMz4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PD9waHAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGZvciB5b3VyIG5lZWRzIGFuZCBzdG9wIExvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb24tc2VjdGV0dXIgYWRpcGlzaWNpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QgdGVtcG9yIGluY2lkaWR1bnQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHV0</text>
       </register>
-      <register name="6" type="2">
-        <text>[17:09] Thomas Grass - jameda</text>
+      <register name="6" type="4">
+        <text>bLorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt
+                            ut</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cDovL2NvZGUuaW9uaWNmcmFtZXdvcmsuY29tL0lPTklDT05TLzIuMC4xL2Nzcy9pb25pY29ucy5taW4uY3NzIj4K</text>
+      </register>
+      <register name="8" type="2">
+        <text>echo 'hello';</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Consulting</text>
+        <text>the success</text>
+      </register>
+      <register name="/" type="4">
+        <text>hero</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search>hero</last-search>
+      <last-offset />
+      <last-pattern>hero</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
