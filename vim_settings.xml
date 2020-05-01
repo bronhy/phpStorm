@@ -39,17 +39,18 @@
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/playbooks/server/peer-server.yml" timestamp="1588151158443">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/binarius.eu/index.html" timestamp="1588345676714">
-        <mark key="[" line="213" column="46" />
-        <mark key="]" line="60" column="30" />
-        <mark key="." line="60" column="30" />
+      <file name="$USER_HOME$/Documents/workspace/binarius.eu/index.html" timestamp="1588350025119">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="76" column="65" />
+        <mark key="." line="76" column="64" />
+        <mark key="^" line="76" column="65" />
       </file>
       <file name="/" timestamp="1588339105337">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/binarius.eu/css/main.css" timestamp="1588345950071">
+      <file name="$USER_HOME$/Documents/workspace/binarius.eu/css/main.css" timestamp="1588347202022">
         <mark key="'" line="122" column="20" />
-        <mark key="[" line="116" column="16" />
+        <mark key="[" line="535" column="1" />
         <mark key="]" line="116" column="17" />
         <mark key="." line="116" column="17" />
         <mark key="^" line="107" column="21" />
@@ -62,41 +63,38 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">PCEtLQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJkYXNoIHNlY29uZHNfZGFzaCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJkYXNoX3RpdGxlIj5TZWNvbmRzPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">PHNwYW4gY2xhc3M9ImpzIj5kZmFmc2FmZHNkZnNkZjwvc3Bhbj4=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CkFib3V0IHN0YXJ0Cj09PT09PT09PT09PT09PT09PT09IC0tPg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJkYXNoIG1pbnV0ZXNfZGFzaCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJkYXNoX3RpdGxlIj5NaW51dGVzPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2ljaW5nIGVsaXQsIHNlZCBkbyBlaXVzbW9kIHRlbXBvciBpbmNpZGlkdW50IHV0IGxhYm9yZQogICAgICAgICAgICAgICAgICAgIGV0IDxicj4gZG9sb3JlIG1hZ25hIGFsaXF1YS4gVXQgZW5pbSBhZCBtaW5pbSB2ZW5pYW0sIHF1aXMgbm9zdHJ1ZCBleGVyY2l0YXRpb24gdWxsYW1jbyBsYWJvcmlzIG5pc2kKICAgICAgICAgICAgICAgICAgICB1dCBhbGlxdWlwIGV4</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImRhc2ggaG91cnNfZGFzaCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJkYXNoX3RpdGxlIj5Ib3Vyczwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
       </register>
       <register name="4" type="4">
-        <text>Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt
-                            ut</text>
+        <text encoding="base64">IDxkaXYgY2xhc3M9ImRhc2ggZGF5c19kYXNoIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ianMiPjwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkaWdpdCI+MDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkaWdpdCI+MDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iZGFzaF90aXRsZSI+RGF5czwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
       </register>
-      <register name="5" type="4">
-        <text>Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt
-                            ut</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2ZkZwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGgzPk1vZGVyZEluIEFwcGxpY2F0aW9uPC9oMz4K</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZGlnaXQiPjA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZGlnaXQ=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGZvciB5b3VyIG5lZWRzIGFuZCBzdG9wIExvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb24tc2VjdGV0dXIgYWRpcGlzaWNpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QgdGVtcG9yIGluY2lkaWR1bnQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHV0</text>
+      <register name="7" type="2">
+        <text encoding="base64">PCEtLQo=</text>
       </register>
       <register name="8" type="4">
-        <text>bLorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt
-                            ut</text>
+        <text encoding="base64">CkFib3V0IHN0YXJ0Cj09PT09PT09PT09PT09PT09PT09IC0tPg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cDovL2NvZGUuaW9uaWNmcmFtZXdvcmsuY29tL0lPTklDT05TLzIuMC4xL2Nzcy9pb25pY29ucy5taW4uY3NzIj4K</text>
+      <register name="9" type="4">
+        <text encoding="base64">TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2ljaW5nIGVsaXQsIHNlZCBkbyBlaXVzbW9kIHRlbXBvciBpbmNpZGlkdW50IHV0IGxhYm9yZQogICAgICAgICAgICAgICAgICAgIGV0IDxicj4gZG9sb3JlIG1hZ25hIGFsaXF1YS4gVXQgZW5pbSBhZCBtaW5pbSB2ZW5pYW0sIHF1aXMgbm9zdHJ1ZCBleGVyY2l0YXRpb24gdWxsYW1jbyBsYWJvcmlzIG5pc2kKICAgICAgICAgICAgICAgICAgICB1dCBhbGlxdWlwIGV4</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">PHNwYW4gY2xhc3M9ImpzIj5kZmFmc2FmZHNkZnNkZjwvc3Bhbj4=</text>
       </register>
       <register name="/" type="4">
         <text>hero</text>
