@@ -29,24 +29,24 @@
       <file name="/PHP Console" timestamp="1588168058614">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1588332814199">
+      <file name="/JavaScript Console" timestamp="1588334339439">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/playbooks/server/peer-server.yml" timestamp="1588151158443">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/binarius.eu/index.html" timestamp="1588333455359">
-        <mark key="[" line="248" column="62" />
-        <mark key="]" line="250" column="26" />
-        <mark key="^" line="250" column="26" />
-        <mark key="." line="250" column="25" />
+      <file name="$USER_HOME$/Documents/workspace/binarius.eu/index.html" timestamp="1588334184666">
+        <mark key="[" line="60" column="45" />
+        <mark key="]" line="60" column="52" />
+        <mark key="^" line="60" column="52" />
+        <mark key="." line="60" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/custom-auth/index.php" timestamp="1588089760773">
         <mark key="[" line="42" column="3" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/" timestamp="1588332814848">
+      <file name="/" timestamp="1588334340119">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -57,8 +57,8 @@
       <register name="1" type="2">
         <text>echo 'hello';</text>
       </register>
-      <register name="&quot;" type="2">
-        <text>echo 'hello';</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cgo=</text>
@@ -71,6 +71,9 @@
       </register>
       <register name="5" type="2">
         <text>[17:09] Thomas Grass - jameda</text>
+      </register>
+      <register name="-" type="4">
+        <text>test</text>
       </register>
     </registers>
   </component>
