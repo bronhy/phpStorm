@@ -48,7 +48,7 @@
       <file name="/" timestamp="1588351544455">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/binarius.eu/css/main.css" timestamp="1588352148479">
+      <file name="$USER_HOME$/Documents/workspace/binarius.eu/css/main.css" timestamp="1588352678083">
         <mark key="'" line="122" column="20" />
         <mark key="[" line="509" column="16" />
         <mark key="]" line="509" column="16" />
@@ -64,10 +64,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>630</text>
+        <text>fill</text>
       </register>
       <register name="-" type="4">
-        <text>630</text>
+        <text>fill</text>
       </register>
       <register name="/" type="4">
         <text>hero</text>
