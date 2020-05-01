@@ -5,40 +5,47 @@
     </editor>
   </component>
   <component name="VimKeySettings">
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/patientus.devops/playbooks/server/web-server.v2.yml" timestamp="1588151124617" />
-      <file name="$USER_HOME$/Documents/workspace/jam_desktop/src/_scripts/includes/functions-suche.inc.php" timestamp="1588166172109" />
-      <file name="$USER_HOME$/Documents/workspace/jam_desktop/src/_scripts/includes/output-content.inc.php" timestamp="1588168025057" />
-      <file name="$USER_HOME$/Documents/workspace/custom-auth/index.php" timestamp="1588089760773">
-        <mark key="[" line="42" column="3" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/notification-service/docs/requests/http-client.env.json" timestamp="1588161802764" />
-      <file name="$USER_HOME$/Documents/workspace/patientus.devops/playbooks/server/jitsi-server.yml" timestamp="1588151155520" />
-      <file name="$USER_HOME$/Documents/workspace/jam_desktop/src/_scripts/includes/functions-all.inc.php" timestamp="1588166709095" />
-      <file name="$USER_HOME$/Documents/workspace/jam_desktop/src/_scripts/solarium/Result.php" timestamp="1588156873355" />
-      <file name="$USER_HOME$/Documents/workspace/jam_desktop/src/gesundheit/index.php" timestamp="1588166560184" />
-      <file name="$USER_HOME$/Documents/workspace/patientus.devops/playbooks/server/peer-server.yml" timestamp="1588151158443">
-        <mark key="[" line="32" column="0" />
-      </file>
-      <file name="/PHP Console" timestamp="1588168058614">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/jam_desktop/src/_scripts/solarium/Result/QueryType.php" timestamp="1588156138361" />
-      <file name="$USER_HOME$/Documents/workspace/jam_desktop/README.md" timestamp="1588167191244" />
-      <file name="$USER_HOME$/Documents/workspace/jam_desktop/src/landing/subdomains/kinderwunsch/index.php" timestamp="1588166223669" />
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/newrelic/infra/tasks/main.yml" timestamp="1588150515229">
         <mark key="[" line="33" column="57" />
         <mark key="]" line="41" column="14" />
         <mark key="^" line="41" column="14" />
         <mark key="." line="41" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/notification-service/lambdas/email/EmailMessage.js" timestamp="1588165890650" />
+      <file name="$USER_HOME$/Documents/workspace/custom-auth/index.php" timestamp="1588089760773">
+        <mark key="[" line="42" column="3" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/ianmassage.com/eng_txt.asp" timestamp="1587938135017">
+        <mark key="[" line="85" column="2575" />
+        <mark key="]" line="85" column="19" />
+        <mark key="." line="85" column="19" />
+        <mark key="^" line="85" column="24" />
+      </file>
+      <file name="/PHP Console" timestamp="1588168058614">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/ianmassage.com/deu_txt.asp" timestamp="1587938102075">
+        <mark key="[" line="67" column="2549" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/ianmassage.com/mobile/style.css" timestamp="1587924165285">
+        <mark key="[" line="42" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/patientus.devops/playbooks/server/peer-server.yml" timestamp="1588151158443">
+        <mark key="[" line="32" column="0" />
+      </file>
     </filemarks>
     <jumps />
   </component>
