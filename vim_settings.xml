@@ -36,12 +36,12 @@
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/playbooks/server/peer-server.yml" timestamp="1588151158443">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/binarius.eu/index.html" timestamp="1588339499186">
+      <file name="$USER_HOME$/Documents/workspace/binarius.eu/index.html" timestamp="1588340647693">
         <mark key="'" line="197" column="109" />
-        <mark key="[" line="173" column="157" />
-        <mark key="]" line="173" column="158" />
-        <mark key="^" line="173" column="158" />
-        <mark key="." line="173" column="157" />
+        <mark key="[" line="173" column="210" />
+        <mark key="]" line="179" column="63" />
+        <mark key="^" line="179" column="63" />
+        <mark key="." line="179" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/custom-auth/index.php" timestamp="1588089760773">
         <mark key="[" line="42" column="3" />
@@ -51,12 +51,12 @@
       <file name="/" timestamp="1588339105337">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/binarius.eu/css/main.css" timestamp="1588339082475">
+      <file name="$USER_HOME$/Documents/workspace/binarius.eu/css/main.css" timestamp="1588340834261">
         <mark key="'" line="122" column="20" />
-        <mark key="[" line="117" column="16" />
-        <mark key="]" line="117" column="19" />
-        <mark key="." line="117" column="16" />
-        <mark key="^" line="89" column="22" />
+        <mark key="[" line="856" column="18" />
+        <mark key="]" line="856" column="19" />
+        <mark key="." line="856" column="18" />
+        <mark key="^" line="856" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -70,7 +70,7 @@
         <text encoding="base64">TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2ljaW5nIGVsaXQsIHNlZCBkbyBlaXVzbW9kIHRlbXBvciBpbmNpZGlkdW50IHV0IGxhYm9yZQogICAgICAgICAgICAgICAgICAgIGV0IDxicj4gZG9sb3JlIG1hZ25hIGFsaXF1YS4gVXQgZW5pbSBhZCBtaW5pbSB2ZW5pYW0sIHF1aXMgbm9zdHJ1ZCBleGVyY2l0YXRpb24gdWxsYW1jbyBsYWJvcmlzIG5pc2kKICAgICAgICAgICAgICAgICAgICB1dCBhbGlxdWlwIGV4</text>
       </register>
       <register name="&quot;" type="4">
-        <text>the success</text>
+        <text>0</text>
       </register>
       <register name="2" type="4">
         <text>Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt
@@ -100,7 +100,7 @@
         <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>the success</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>hero</text>
