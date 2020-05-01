@@ -21,39 +21,39 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/patientus.devops/roles/software/newrelic/infra/tasks/main.yml" timestamp="1588150515229">
-        <mark key="[" line="33" column="57" />
-        <mark key="]" line="41" column="14" />
-        <mark key="^" line="41" column="14" />
-        <mark key="." line="41" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/binarius.eu/js/main.js" timestamp="1588345580196">
         <mark key="[" line="35" column="26" />
       </file>
       <file name="/PHP Console" timestamp="1588168058614">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1588339105012">
+      <file name="$USER_HOME$/Documents/workspace/binarius.eu/images/platform/js.svg" timestamp="1588352212592">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="3" column="9" />
+        <mark key="." line="3" column="8" />
+        <mark key="^" line="3" column="9" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1588351544213">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/playbooks/server/peer-server.yml" timestamp="1588151158443">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/binarius.eu/index.html" timestamp="1588350025119">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="76" column="65" />
-        <mark key="." line="76" column="64" />
+      <file name="$USER_HOME$/Documents/workspace/binarius.eu/index.html" timestamp="1588352089278">
+        <mark key="[" line="85" column="52" />
+        <mark key="]" line="86" column="60" />
+        <mark key="." line="86" column="0" />
         <mark key="^" line="76" column="65" />
       </file>
-      <file name="/" timestamp="1588339105337">
+      <file name="/" timestamp="1588351544455">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/binarius.eu/css/main.css" timestamp="1588347202022">
+      <file name="$USER_HOME$/Documents/workspace/binarius.eu/css/main.css" timestamp="1588352148479">
         <mark key="'" line="122" column="20" />
-        <mark key="[" line="535" column="1" />
-        <mark key="]" line="116" column="17" />
-        <mark key="." line="116" column="17" />
-        <mark key="^" line="107" column="21" />
+        <mark key="[" line="509" column="16" />
+        <mark key="]" line="509" column="16" />
+        <mark key="^" line="519" column="18" />
+        <mark key="." line="509" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -63,41 +63,52 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJkYXNoIHNlY29uZHNfZGFzaCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJkYXNoX3RpdGxlIj5TZWNvbmRzPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg==</text>
-      </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PHNwYW4gY2xhc3M9ImpzIj5kZmFmc2FmZHNkZnNkZjwvc3Bhbj4=</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJkYXNoIG1pbnV0ZXNfZGFzaCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJkYXNoX3RpdGxlIj5NaW51dGVzPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImRhc2ggaG91cnNfZGFzaCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJkYXNoX3RpdGxlIj5Ib3Vyczwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IDxkaXYgY2xhc3M9ImRhc2ggZGF5c19kYXNoIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ianMiPjwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkaWdpdCI+MDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkaWdpdCI+MDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iZGFzaF90aXRsZSI+RGF5czwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2ZkZwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZGlnaXQiPjA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZGlnaXQ=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">PCEtLQo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CkFib3V0IHN0YXJ0Cj09PT09PT09PT09PT09PT09PT09IC0tPg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2ljaW5nIGVsaXQsIHNlZCBkbyBlaXVzbW9kIHRlbXBvciBpbmNpZGlkdW50IHV0IGxhYm9yZQogICAgICAgICAgICAgICAgICAgIGV0IDxicj4gZG9sb3JlIG1hZ25hIGFsaXF1YS4gVXQgZW5pbSBhZCBtaW5pbSB2ZW5pYW0sIHF1aXMgbm9zdHJ1ZCBleGVyY2l0YXRpb24gdWxsYW1jbyBsYWJvcmlzIG5pc2kKICAgICAgICAgICAgICAgICAgICB1dCBhbGlxdWlwIGV4</text>
+        <text>630</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHNwYW4gY2xhc3M9ImpzIj5kZmFmc2FmZHNkZnNkZjwvc3Bhbj4=</text>
+        <text>630</text>
       </register>
       <register name="/" type="4">
         <text>hero</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9ImltYWdlcy9wbGF0Zm9ybS9qcy5zdmciIC8+Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">cGxhdGZvcm0vanMuc3ZnIiAvPgogICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaW1hZ2VzL3BsYXRmb3JtL2pzLnN2ZyIgLz4KICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9ImltYWdlcy9wbGF0Zm9ybS9qcy5zdmciIC8+</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHBhZGRpbmc6MTg7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHJnYmEoMjU1LCAyNTUsIDI1NSwgMC4yKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text>.js {
+    background: url('../images/platform/js.svg');
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}</text>
+      </register>
+      <register name="6" type="8">
+        <text>/
+/
+/
+/</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJkYXNoIHNlY29uZHNfZGFzaCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJkYXNoX3RpdGxlIj5TZWNvbmRzPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJkYXNoIG1pbnV0ZXNfZGFzaCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJkYXNoX3RpdGxlIj5NaW51dGVzPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImRhc2ggaG91cnNfZGFzaCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJkYXNoX3RpdGxlIj5Ib3Vyczwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
       </register>
     </registers>
   </component>
