@@ -21,8 +21,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/binarius.eu/js/main.js" timestamp="1588345580196">
-        <mark key="[" line="35" column="26" />
+      <file name="$USER_HOME$/Documents/workspace/binarius.eu/js/main.js" timestamp="1588355152381">
+        <mark key="[" line="154" column="13" />
+        <mark key="]" line="142" column="1" />
+        <mark key="^" line="142" column="1" />
+        <mark key="." line="142" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1588168058614">
         <mark key="[" line="0" column="0" />
@@ -39,21 +42,27 @@
       <file name="$USER_HOME$/Documents/workspace/patientus.devops/playbooks/server/peer-server.yml" timestamp="1588151158443">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/binarius.eu/index.html" timestamp="1588352089278">
-        <mark key="[" line="85" column="52" />
-        <mark key="]" line="86" column="60" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="76" column="65" />
+      <file name="$USER_HOME$/Documents/workspace/binarius.eu/index.html" timestamp="1588355401026">
+        <mark key="[" line="84" column="42" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="169" column="12" />
       </file>
       <file name="/" timestamp="1588351544455">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/binarius.eu/css/main.css" timestamp="1588352678083">
+      <file name="$USER_HOME$/Documents/workspace/binarius.eu/css/main.css" timestamp="1588355709254">
         <mark key="'" line="122" column="20" />
-        <mark key="[" line="509" column="16" />
-        <mark key="]" line="509" column="16" />
-        <mark key="^" line="519" column="18" />
-        <mark key="." line="509" column="16" />
+        <mark key="[" line="505" column="1" />
+        <mark key="]" line="488" column="21" />
+        <mark key="^" line="488" column="21" />
+        <mark key="." line="488" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/binarius.eu/images/platform/php.svg" timestamp="1588354230579">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="108" />
+        <mark key="^" line="0" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -64,10 +73,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>fill</text>
+        <text>100</text>
       </register>
       <register name="-" type="4">
-        <text>fill</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>hero</text>
@@ -75,19 +84,25 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9ImltYWdlcy9wbGF0Zm9ybS9qcy5zdmciIC8+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cGxhdGZvcm0vanMuc3ZnIiAvPgogICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaW1hZ2VzL3BsYXRmb3JtL2pzLnN2ZyIgLz4KICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9ImltYWdlcy9wbGF0Zm9ybS9qcy5zdmciIC8+</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6MTg7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHJnYmEoMjU1LCAyNTUsIDI1NSwgMC4yKTsK</text>
-      </register>
-      <register name="4" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">dGVzdC5zdmciIC8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSJpbWFnZXMvcGxhdGZvcm0vZ28ucw==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">cGxhdGZvcm0vanMuc3ZnIiAvPgogICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaW1hZ2VzL3BsYXRmb3JtL2pzLnN2ZyIgLz4KICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9ImltYWdlcy9wbGF0Zm9ybS9qcy5zdmciIC8+</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBhZGRpbmc6MTg7Cg==</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHJnYmEoMjU1LCAyNTUsIDI1NSwgMC4yKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text>.js {
     background: url('../images/platform/js.svg');
     background-size: cover;
@@ -95,20 +110,14 @@
     height: 100%;
 }</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text>/
 /
 /
 /</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJkYXNoIHNlY29uZHNfZGFzaCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJkYXNoX3RpdGxlIj5TZWNvbmRzPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJkYXNoIG1pbnV0ZXNfZGFzaCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJkYXNoX3RpdGxlIj5NaW51dGVzPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImRhc2ggaG91cnNfZGFzaCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJkYXNoX3RpdGxlIj5Ib3Vyczwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJkYXNoIHNlY29uZHNfZGFzaCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRpZ2l0Ij4wPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJkYXNoX3RpdGxlIj5TZWNvbmRzPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg==</text>
       </register>
     </registers>
   </component>
