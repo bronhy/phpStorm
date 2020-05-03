@@ -26,12 +26,11 @@
         <mark key="]" line="10" column="65" />
         <mark key="." line="10" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/binarius.eu/css/main.css" timestamp="1588503845893">
-        <mark key="'" line="128" column="20" />
-        <mark key="[" line="14" column="118" />
-        <mark key="]" line="14" column="119" />
-        <mark key="^" line="14" column="119" />
-        <mark key="." line="14" column="118" />
+      <file name="$USER_HOME$/Documents/workspace/binarius.eu/css/main.css" timestamp="1588522890323">
+        <mark key="'" line="114" column="20" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/binarius.eu/index.html" timestamp="1588500918219">
         <mark key="[" line="50" column="74" />
@@ -77,8 +76,22 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGZvbnQtc2l6ZTogMjlweDsg</text>
+      <register name="&quot;" type="2">
+        <text>h1 { font-family: Courier; font-size: 29px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 31.9px; }
+h2 { font-family: Courier; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 20.4px; }
+h3 { font-family: Courier; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; }
+p { font-family: Courier; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; }
+blockquote { font-family: Courier; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; }
+pre { font-family: &quot;Courier New&quot;, Courier, &quot;Lucida Sans Typewriter&quot;, &quot;Lucida Typewriter&quot;, monospace; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 300;
+    margin: 0px;
+}</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGZvbnQtc2l6ZTogMjlweDsg</text>
@@ -90,7 +103,21 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9ImltYWdlcy9wbGF0Zm9ybS9qcy5zdmciIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>h1 { font-family: Courier; font-size: 29px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 31.9px; }
+h2 { font-family: Courier; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 20.4px; }
+h3 { font-family: Courier; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; }
+p { font-family: Courier; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; }
+blockquote { font-family: Courier; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; }
+pre { font-family: &quot;Courier New&quot;, Courier, &quot;Lucida Sans Typewriter&quot;, &quot;Lucida Typewriter&quot;, monospace; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 300;
+    margin: 0px;
+}</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
