@@ -26,12 +26,12 @@
         <mark key="]" line="10" column="65" />
         <mark key="." line="10" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/binarius.eu/css/main.css" timestamp="1588363926759">
-        <mark key="'" line="122" column="20" />
-        <mark key="[" line="385" column="16" />
-        <mark key="]" line="385" column="11" />
-        <mark key="^" line="378" column="1" />
-        <mark key="." line="385" column="11" />
+      <file name="$USER_HOME$/Documents/workspace/binarius.eu/css/main.css" timestamp="1588503167008">
+        <mark key="'" line="127" column="20" />
+        <mark key="[" line="13" column="125" />
+        <mark key="]" line="17" column="83" />
+        <mark key="^" line="17" column="83" />
+        <mark key="." line="17" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/binarius.eu/index.html" timestamp="1588500918219">
         <mark key="[" line="50" column="74" />
@@ -79,10 +79,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>solid</text>
+        <text encoding="base64">IGZvbnQtc2l6ZTogMjlweDsg</text>
       </register>
       <register name="-" type="4">
-        <text>solid</text>
+        <text encoding="base64">IGZvbnQtc2l6ZTogMjlweDsg</text>
       </register>
       <register name="/" type="4">
         <text>hero</text>
