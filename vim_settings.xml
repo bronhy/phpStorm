@@ -26,11 +26,11 @@
         <mark key="]" line="10" column="65" />
         <mark key="." line="10" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/binarius.eu/css/main.css" timestamp="1588524757683">
-        <mark key="'" line="133" column="20" />
-        <mark key="[" line="4" column="117" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/binarius.eu/css/main.css" timestamp="1588526716866">
+        <mark key="'" line="114" column="20" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/binarius.eu/index.html" timestamp="1588500918219">
         <mark key="[" line="50" column="74" />
@@ -120,7 +120,21 @@ h6 {
 }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>h1 { font-family: Courier; font-size: 29px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 31.9px; }
+h2 { font-family: Courier; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 20.4px; }
+h3 { font-family: Courier; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; }
+p { font-family: Courier; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; }
+blockquote { font-family: Courier; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; }
+pre { font-family: &quot;Courier New&quot;, Courier, &quot;Lucida Sans Typewriter&quot;, &quot;Lucida Typewriter&quot;, monospace; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 300;
+    margin: 0px;
+}</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
