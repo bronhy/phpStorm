@@ -8,6 +8,7 @@
     <history>
       <history-search>
         <entry>hero</entry>
+        <entry encoding="base64">XDxyZ2JcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -41,16 +42,20 @@
         <mark key="^" line="142" column="1" />
         <mark key="." line="205" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/binarius.eu/plain.html" timestamp="1588539405913">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/binarius.eu/plain.html" timestamp="1588545519874">
+        <mark key="[" line="20" column="37" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/binarius.eu/test.html" timestamp="1588539089517">
         <mark key="[" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/binarius.eu/css/plain.css" timestamp="1588539249247">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/binarius.eu/css/plain.css" timestamp="1588545440232">
+        <mark key="'" line="54" column="10" />
+        <mark key="[" line="54" column="10" />
+        <mark key="]" line="54" column="10" />
+        <mark key="." line="54" column="10" />
+        <mark key="^" line="54" column="12" />
       </file>
       <file name="/" timestamp="1588537747185">
         <mark key="[" line="0" column="0" />
@@ -86,57 +91,58 @@
     <jumps>
       <jump line="121" column="20" filename="$USER_HOME$/Documents/workspace/binarius.eu/css/main.css" />
       <jump line="199" column="109" filename="$USER_HOME$/Documents/workspace/binarius.eu/index.html" />
+      <jump line="54" column="10" filename="$USER_HOME$/Documents/workspace/binarius.eu/css/plain.css" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9ImF1dGhvciIgY29udGVudD0iU2l0ZVBvaW50Ij4K</text>
+      <register name="&quot;" type="4">
+        <text>7e7e7e</text>
       </register>
       <register name="-" type="4">
-        <text>spesilized</text>
+        <text>7e7e7e</text>
       </register>
       <register name="/" type="4">
-        <text>hero</text>
+        <text encoding="base64">XDxyZ2JcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIHVzZXItc2NhbGFibGU9bm8sIGluaXRpYWwtc2NhbGU9MS4wLCBtYXhpbXVtLXNjYWxlPTEuMCwgbWluaW11bS1zY2FsZT0xLjAiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9ImF1dGhvciIgY29udGVudD0iU2l0ZVBvaW50Ij4K</text>
+        <text encoding="base64">ICAgIGJveC1zaXppbmc6IGJvcmRlci1ib3g7ZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDx0aXRsZT5CaW5hcml1cyAtIGEgcGFzc2lvbmF0ZSBzb2Z0d2FyZSB0ZWFtPC90aXRsZT4K</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAzLjdyZW07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxtZXRhPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MS4wIj4K</text>
+        <text encoding="base64">ICAgIDxkaXZkZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MS4wIj4K</text>
+        <text encoding="base64">ICAgIC0tYWNjZW50LWNvbG9yLTI6ICNlZGQzODI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MS4wIj4K</text>
+        <text encoding="base64">ICAgIC0tYWNjZW50LWNvbG9yLTI6IDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9ImF1dGhvciIgY29udGVudD0iU2l0ZVBvaW50Ij4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MS4wIj4K</text>
+        <text encoding="base64">ICAgIDx0aXRsZT5CaW5hcml1cyAtIGEgcGFzc2lvbmF0ZSBzb2Z0d2FyZSB0ZWFtPC90aXRsZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MS4wLDAiPgo=</text>
+        <text encoding="base64">ICAgIDxtZXRhPgo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>hero</last-search>
+      <last-search encoding="base64">XDxyZ2JcPg==</last-search>
       <last-offset />
-      <last-pattern>hero</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxyZ2JcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
