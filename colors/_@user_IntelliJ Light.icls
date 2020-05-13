@@ -4,10 +4,10 @@
     <property name="created">2020-05-11T09:59:27</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-05-13T12:22:14</property>
+    <property name="modified">2020-05-13T12:23:24</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Meslo LG M for Powerline" />
+  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="CARET_ROW_COLOR" value="fcfaed" />
@@ -19,6 +19,11 @@
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="92b1ee" />
+      </value>
+    </option>
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="6dcc" />
