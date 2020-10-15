@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
+      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern="dasvinzenz" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
