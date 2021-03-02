@@ -2,25 +2,22 @@
   <component name="PhpAutoImport" auto_import_file_scope="true" />
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="aba3c114-8298-414f-ab92-2d1b6030d7fb" name="PHP 7.2" home="/usr/local/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="f32a6f66-76bc-47f0-aebd-0a886ccfd45b" name="PHP 8.0" home="/usr/local/Cellar/php/8.0.2/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.2">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.2/7.2.25/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.2/7.2.25/bin/php" path_separator=":" version="7.2.25">
-          <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-opcache.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
+      <interpreter name="PHP 8.0">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.0.2/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.0.2/bin/php" path_separator=":" version="8.0.2">
+          <additional_php_ini>/usr/local/etc/php/8.0/conf.d/ext-opcache.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/php/8.0/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.25/share/php@7.2/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.0.2/share/php/pear" />
           </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.6.1">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
+          <debuggers />
           <loaded_extensions>
             <extension name="Core" />
+            <extension name="FFI" />
             <extension name="PDO" />
             <extension name="PDO_ODBC" />
             <extension name="Phar" />
@@ -77,11 +74,8 @@
             <extension name="sysvshm" />
             <extension name="tidy" />
             <extension name="tokenizer" />
-            <extension name="wddx" />
-            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
-            <extension name="xmlrpc" />
             <extension name="xmlwriter" />
             <extension name="xsl" />
             <extension name="zip" />
