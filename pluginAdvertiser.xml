@@ -38,6 +38,30 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ascx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.asp" />
+              <option name="myPluginName" value="ASP" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.asp">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.asp" />
+              <option name="myPluginName" value="ASP" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.aspx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.asp" />
+              <option name="myPluginName" value="ASP" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ats">
           <value>
             <plugin>
@@ -559,8 +583,9 @@
         <entry key="*.ignore">
           <value>
             <plugin>
-              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
-              <option name="myPluginName" value=".ignore" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
