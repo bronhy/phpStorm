@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="passwords" type="AUTO_DETECTED" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
-      <mapping pattern=".postcssrc" type="PLAIN_TEXT" />
       <mapping pattern="dasvinzenz" type="PLAIN_TEXT" />
+      <mapping pattern=".postcssrc" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
